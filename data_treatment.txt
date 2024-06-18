@@ -1,0 +1,7 @@
+- all data need to be re-plotted to fit into the thesis
+- keep scripts in this folder
+
+Flask experiments:
+- convert everything to gCDW/L
+- where necessary, save data as files
+- split data analysis nad plotting into two scripts as much as possible?

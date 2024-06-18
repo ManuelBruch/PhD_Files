@@ -14,11 +14,12 @@ GeneralFile     =   'HPLC_samples.xlsx';
 relevantSheet   =   '20_05_2024';
 FigureNames     =   {''};
 
+% the file contains a table which contains concentrations of standards or time
+% points for unknown samples
+
 % change the following four lines manually
 myDate              =   '20240520';
 GeneralFileName     =   '240520_MB0';
-% relevantSheet   =   '09-11_12_2020';
-% relevantRange   =   {'C3:O9'};
 relevantRange       =   {'B3:E12'};
 
 Samples             =   readcell([FileLocation GeneralFile],'Sheet',...
@@ -26,8 +27,6 @@ Samples             =   readcell([FileLocation GeneralFile],'Sheet',...
 SampleNr            =   1;
 
 %% analyse standards if desired
-% Standards       =   find(contains(Samples(:,end),'standard')); % does not work
-% for some reason
 stdIdx  =   [];
 for i = 1:size(Samples,1)
     try
@@ -125,18 +124,6 @@ if StandardAnalysis
     for i = 1:length(stdIdx)
         Standard    =   Samples(stdIdx(i),:);
         relFileNrs  =   stdFileNr(stdIdx(i),:);
-        
-        % determine retention time and variance
-%         disp('Would you like to enter the target retention time manually or shall I try to figure it out myself?')
-%         disp('Yes: type 1')
-%         disp('No: type 0')
-%         a   =   input('');
-%         
-%         if a
-%             RetTime     =   input('Please enter your desired retention time [min]: ');
-%         else
-%             RetTime     =   [];
-%         end
         RetTime     =   [];
         
         [SampleNr,PeakAreas,Concentrations,StandardCurve,PeakTable,RetTime,myFig,Rsq]   =   ...
@@ -173,7 +160,7 @@ if ~isempty(SampleFileNrs)
     FileNames   =   FileNames(contains(FileNames,myDate2));
     
     %%% ONLY FOR MY CASE (don't want to stop each time for the prompt)
-%     FileNames   =   FileNames(~contains(FileNames,'sodium_formate'));
+    FileNames   =   FileNames(~contains(FileNames,'sodium_formate'));
     
     myStandards =   cell(size(FileNames,1),2);
     StdRetTimes =   zeros(size(FileNames));
