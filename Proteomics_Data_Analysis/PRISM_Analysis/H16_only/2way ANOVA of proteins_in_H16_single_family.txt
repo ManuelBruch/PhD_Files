@@ -1,0 +1,1941 @@
+﻿								
+Within each row, compare columns (simple effects within rows)								
+								
+Number of families	1							
+Number of comparisons per family	579							
+Alpha	0.05							
+								
+Šídák's multiple comparisons test	Mean Diff.	95.00% CI of diff.	Below threshold?	Summary	Adjusted P Value			
+								
+  O07451								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.230	-3.250 to 5.710	No	ns	>0.9999			
+    Group A vs. Group C	1.467	-3.013 to 5.947	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.2374	-4.243 to 4.717	No	ns	>0.9999			
+								
+  P19924								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.243	-2.237 to 6.722	No	ns	>0.9999			
+    Group A vs. Group C	2.590	-1.890 to 7.070	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.3478	-4.132 to 4.828	No	ns	>0.9999			
+								
+  P21726								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.145	-2.335 to 6.625	No	ns	>0.9999			
+    Group A vs. Group C	1.673	-2.807 to 6.153	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.4721	-4.952 to 4.008	No	ns	>0.9999			
+								
+  P22317								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.327	-3.153 to 5.807	No	ns	>0.9999			
+    Group A vs. Group C	1.266	-3.214 to 5.746	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.06089	-4.541 to 4.419	No	ns	>0.9999			
+								
+  P22318								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.220	-3.260 to 5.700	No	ns	>0.9999			
+    Group A vs. Group C	1.480	-3.000 to 5.960	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.2601	-4.220 to 4.740	No	ns	>0.9999			
+								
+  P22319								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.393	-3.087 to 5.873	No	ns	>0.9999			
+    Group A vs. Group C	1.255	-3.225 to 5.735	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.1385	-4.618 to 4.341	No	ns	>0.9999			
+								
+  P22320								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.9189	-3.561 to 5.399	No	ns	>0.9999			
+    Group A vs. Group C	1.484	-2.996 to 5.964	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.5653	-3.915 to 5.045	No	ns	>0.9999			
+								
+  P29267								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.011	-3.469 to 5.491	No	ns	>0.9999			
+    Group A vs. Group C	0.5595	-3.920 to 5.039	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.4511	-4.931 to 4.029	No	ns	>0.9999			
+								
+  P31891								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.523	-2.957 to 6.003	No	ns	>0.9999			
+    Group A vs. Group C	1.382	-3.098 to 5.861	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.1410	-4.621 to 4.339	No	ns	>0.9999			
+								
+  P31892								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.250	-3.230 to 5.730	No	ns	>0.9999			
+    Group A vs. Group C	0.7172	-3.763 to 5.197	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.5324	-5.012 to 3.947	No	ns	>0.9999			
+								
+  P31898								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.7961	-5.276 to 3.684	No	ns	>0.9999			
+    Group A vs. Group C	-0.6586	-5.139 to 3.821	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.1375	-4.342 to 4.617	No	ns	>0.9999			
+								
+  P31900								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.186	-2.294 to 6.666	No	ns	>0.9999			
+    Group A vs. Group C	1.825	-2.655 to 6.305	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.3615	-4.841 to 4.118	No	ns	>0.9999			
+								
+  P31901								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.8951	-3.585 to 5.375	No	ns	>0.9999			
+    Group A vs. Group C	-0.6067	-5.087 to 3.873	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.502	-5.982 to 2.978	No	ns	>0.9999			
+								
+  P31902								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.9047	-3.575 to 5.385	No	ns	>0.9999			
+    Group A vs. Group C	0.4370	-4.043 to 4.917	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.4677	-4.948 to 4.012	No	ns	>0.9999			
+								
+  P31905								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.226	-3.254 to 5.706	No	ns	>0.9999			
+    Group A vs. Group C	0.02514	-4.455 to 4.505	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.201	-5.681 to 3.279	No	ns	>0.9999			
+								
+  P31909								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.395	-3.085 to 5.875	No	ns	>0.9999			
+    Group A vs. Group C	1.126	-3.354 to 5.606	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.2692	-4.749 to 4.211	No	ns	>0.9999			
+								
+  P31910								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.4803	-4.000 to 4.960	No	ns	>0.9999			
+    Group A vs. Group C	0.1773	-4.303 to 4.657	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.3030	-4.783 to 4.177	No	ns	>0.9999			
+								
+  P31911								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.162	-3.318 to 5.642	No	ns	>0.9999			
+    Group A vs. Group C	0.5852	-3.895 to 5.065	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.5767	-5.057 to 3.903	No	ns	>0.9999			
+								
+  P31914								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.8436	-3.636 to 5.324	No	ns	>0.9999			
+    Group A vs. Group C	1.072	-3.408 to 5.552	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.2284	-4.252 to 4.708	No	ns	>0.9999			
+								
+  P39185								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.473	-3.007 to 5.952	No	ns	>0.9999			
+    Group A vs. Group C	1.345	-3.135 to 5.825	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.1278	-4.608 to 4.352	No	ns	>0.9999			
+								
+  P39662								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.2600	-4.220 to 4.740	No	ns	>0.9999			
+    Group A vs. Group C	0.03776	-4.442 to 4.518	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.2222	-4.702 to 4.258	No	ns	>0.9999			
+								
+  P40853								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.8144	-3.666 to 5.294	No	ns	>0.9999			
+    Group A vs. Group C	1.042	-3.438 to 5.522	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.2275	-4.252 to 4.707	No	ns	>0.9999			
+								
+  P42721								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.7491	-3.731 to 5.229	No	ns	>0.9999			
+    Group A vs. Group C	0.4797	-4.000 to 4.960	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.2694	-4.749 to 4.211	No	ns	>0.9999			
+								
+  P45805								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.9232	-3.557 to 5.403	No	ns	>0.9999			
+    Group A vs. Group C	0.7036	-3.776 to 5.183	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.2197	-4.700 to 4.260	No	ns	>0.9999			
+								
+  P50320								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.511	-2.969 to 5.991	No	ns	>0.9999			
+    Group A vs. Group C	0.6975	-3.782 to 5.177	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.8136	-5.294 to 3.666	No	ns	>0.9999			
+								
+  Q04541								
+    Group A vs. H16 C/N = 50 80 mM formic acid	5.502	1.022 to 9.982	Yes	***	0.0009			
+    Group A vs. Group C	3.497	-0.9826 to 7.977	No	ns	0.7195			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-2.005	-6.485 to 2.475	No	ns	>0.9999			
+								
+  Q0JY89								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.136	-2.344 to 6.616	No	ns	>0.9999			
+    Group A vs. Group C	3.497	-0.9830 to 7.977	No	ns	0.7199			
+    H16 C/N = 50 80 mM formic acid vs. Group C	1.361	-3.119 to 5.841	No	ns	>0.9999			
+								
+  Q0JYB7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.7459	-3.734 to 5.226	No	ns	>0.9999			
+    Group A vs. Group C	3.527	-0.9526 to 8.007	No	ns	0.6878			
+    H16 C/N = 50 80 mM formic acid vs. Group C	2.781	-1.698 to 7.261	No	ns	0.9998			
+								
+  Q0JYJ3								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.670	-2.810 to 6.150	No	ns	>0.9999			
+    Group A vs. Group C	-0.07043	-4.550 to 4.409	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.741	-6.221 to 2.739	No	ns	>0.9999			
+								
+  Q0JYL9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.5335	-5.013 to 3.946	No	ns	>0.9999			
+    Group A vs. Group C	-1.330	-5.810 to 3.149	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.7970	-5.277 to 3.683	No	ns	>0.9999			
+								
+  Q0JYM3								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.5960	-5.076 to 3.884	No	ns	>0.9999			
+    Group A vs. Group C	-1.614	-6.093 to 2.866	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.018	-5.497 to 3.462	No	ns	>0.9999			
+								
+  Q0JYN0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.07619	-4.404 to 4.556	No	ns	>0.9999			
+    Group A vs. Group C	0.4254	-4.055 to 4.905	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.3492	-4.131 to 4.829	No	ns	>0.9999			
+								
+  Q0JYP7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.154	-2.326 to 6.634	No	ns	>0.9999			
+    Group A vs. Group C	0.6617	-3.818 to 5.142	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.493	-5.973 to 2.987	No	ns	>0.9999			
+								
+  Q0JZ02								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-2.305	-6.785 to 2.175	No	ns	>0.9999			
+    Group A vs. Group C	1.403	-3.077 to 5.883	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	3.709	-0.7712 to 8.189	No	ns	0.4908			
+								
+  Q0JZ55								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.781	-1.699 to 7.261	No	ns	0.9998			
+    Group A vs. Group C	2.488	-1.991 to 6.968	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.2929	-4.773 to 4.187	No	ns	>0.9999			
+								
+  Q0JZ60								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-2.013	-6.493 to 2.467	No	ns	>0.9999			
+    Group A vs. Group C	0.03451	-4.445 to 4.514	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	2.048	-2.432 to 6.528	No	ns	>0.9999			
+								
+  Q0JZB2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.8972	-5.377 to 3.583	No	ns	>0.9999			
+    Group A vs. Group C	-0.8723	-5.352 to 3.608	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.02483	-4.455 to 4.505	No	ns	>0.9999			
+								
+  Q0JZF7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-3.144	-7.624 to 1.336	No	ns	0.9672			
+    Group A vs. Group C	-1.769	-6.249 to 2.711	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	1.375	-3.105 to 5.855	No	ns	>0.9999			
+								
+  Q0JZH2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.804	-2.676 to 6.284	No	ns	>0.9999			
+    Group A vs. Group C	4.104	-0.3759 to 8.584	No	ns	0.1729			
+    H16 C/N = 50 80 mM formic acid vs. Group C	2.300	-2.180 to 6.780	No	ns	>0.9999			
+								
+  Q0JZL1								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.408	-2.071 to 6.888	No	ns	>0.9999			
+    Group A vs. Group C	2.706	-1.774 to 7.186	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.2978	-4.182 to 4.778	No	ns	>0.9999			
+								
+  Q0JZR8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	4.895	0.4148 to 9.375	Yes	*	0.0107			
+    Group A vs. Group C	5.656	1.176 to 10.14	Yes	***	0.0004			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.7616	-3.718 to 5.241	No	ns	>0.9999			
+								
+  Q0JZV9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.5585	-5.038 to 3.921	No	ns	>0.9999			
+    Group A vs. Group C	-2.451	-6.931 to 2.029	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.893	-6.372 to 2.587	No	ns	>0.9999			
+								
+  Q0K059								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-2.074	-6.554 to 2.406	No	ns	>0.9999			
+    Group A vs. Group C	-2.518	-6.997 to 1.962	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.4436	-4.923 to 4.036	No	ns	>0.9999			
+								
+  Q0K0G5								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-2.292	-6.772 to 2.188	No	ns	>0.9999			
+    Group A vs. Group C	-0.02822	-4.508 to 4.452	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	2.263	-2.216 to 6.743	No	ns	>0.9999			
+								
+  Q0K0M2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.780	-1.700 to 7.260	No	ns	0.9998			
+    Group A vs. Group C	3.796	-0.6836 to 8.276	No	ns	0.4021			
+    H16 C/N = 50 80 mM formic acid vs. Group C	1.017	-3.463 to 5.497	No	ns	>0.9999			
+								
+  Q0K0U5								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.046	-2.434 to 6.526	No	ns	>0.9999			
+    Group A vs. Group C	-0.7727	-5.253 to 3.707	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-2.819	-7.299 to 1.661	No	ns	0.9996			
+								
+  Q0K0Y5								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.04767	-4.528 to 4.432	No	ns	>0.9999			
+    Group A vs. Group C	-0.5509	-5.031 to 3.929	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.5032	-4.983 to 3.977	No	ns	>0.9999			
+								
+  Q0K0Z5								
+    Group A vs. H16 C/N = 50 80 mM formic acid	4.607	0.1273 to 9.087	Yes	*	0.0317			
+    Group A vs. Group C	4.675	0.1951 to 9.155	Yes	*	0.0247			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.06779	-4.412 to 4.548	No	ns	>0.9999			
+								
+  Q0K103								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.612	-1.868 to 7.092	No	ns	>0.9999			
+    Group A vs. Group C	0.9259	-3.554 to 5.406	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.686	-6.166 to 2.794	No	ns	>0.9999			
+								
+  Q0K106								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.973	-2.507 to 6.453	No	ns	>0.9999			
+    Group A vs. Group C	1.383	-3.097 to 5.863	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.5896	-5.070 to 3.890	No	ns	>0.9999			
+								
+  Q0K108								
+    Group A vs. H16 C/N = 50 80 mM formic acid	4.306	-0.1735 to 8.786	No	ns	0.0906			
+    Group A vs. Group C	2.208	-2.272 to 6.687	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-2.099	-6.579 to 2.381	No	ns	>0.9999			
+								
+  Q0K110								
+    Group A vs. H16 C/N = 50 80 mM formic acid	3.167	-1.313 to 7.647	No	ns	0.9598			
+    Group A vs. Group C	1.518	-2.962 to 5.998	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.649	-6.129 to 2.831	No	ns	>0.9999			
+								
+  Q0K113								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.375	-3.105 to 5.855	No	ns	>0.9999			
+    Group A vs. Group C	0.2091	-4.271 to 4.689	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.166	-5.646 to 3.314	No	ns	>0.9999			
+								
+  Q0K114								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.9618	-3.518 to 5.442	No	ns	>0.9999			
+    Group A vs. Group C	0.3212	-4.159 to 4.801	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.6406	-5.121 to 3.839	No	ns	>0.9999			
+								
+  Q0K115								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.2809	-4.199 to 4.761	No	ns	>0.9999			
+    Group A vs. Group C	0.6661	-3.814 to 5.146	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.3852	-4.095 to 4.865	No	ns	>0.9999			
+								
+  Q0K124								
+    Group A vs. H16 C/N = 50 80 mM formic acid	3.156	-1.324 to 7.636	No	ns	0.9635			
+    Group A vs. Group C	0.7561	-3.724 to 5.236	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-2.400	-6.880 to 2.080	No	ns	>0.9999			
+								
+  Q0K125								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.328	-3.152 to 5.808	No	ns	>0.9999			
+    Group A vs. Group C	-0.2248	-4.705 to 4.255	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.553	-6.033 to 2.927	No	ns	>0.9999			
+								
+  Q0K127								
+    Group A vs. H16 C/N = 50 80 mM formic acid	4.843	0.3634 to 9.323	Yes	*	0.0131			
+    Group A vs. Group C	2.621	-1.859 to 7.101	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-2.222	-6.702 to 2.258	No	ns	>0.9999			
+								
+  Q0K129								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.676	-2.804 to 6.156	No	ns	>0.9999			
+    Group A vs. Group C	0.9510	-3.529 to 5.431	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.7252	-5.205 to 3.755	No	ns	>0.9999			
+								
+  Q0K130								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.699	-2.781 to 6.179	No	ns	>0.9999			
+    Group A vs. Group C	2.540	-1.940 to 7.019	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.8408	-3.639 to 5.321	No	ns	>0.9999			
+								
+  Q0K132								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.205	-2.275 to 6.685	No	ns	>0.9999			
+    Group A vs. Group C	-0.004006	-4.484 to 4.476	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-2.209	-6.689 to 2.271	No	ns	>0.9999			
+								
+  Q0K135								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.3433	-4.823 to 4.137	No	ns	>0.9999			
+    Group A vs. Group C	-1.404	-5.884 to 3.076	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.060	-5.540 to 3.420	No	ns	>0.9999			
+								
+  Q0K150								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.072	-2.408 to 6.552	No	ns	>0.9999			
+    Group A vs. Group C	2.113	-2.366 to 6.593	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.04174	-4.438 to 4.522	No	ns	>0.9999			
+								
+  Q0K154								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.5158	-3.964 to 4.996	No	ns	>0.9999			
+    Group A vs. Group C	0.9562	-3.524 to 5.436	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.4404	-4.039 to 4.920	No	ns	>0.9999			
+								
+  Q0K157								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.467	-3.013 to 5.947	No	ns	>0.9999			
+    Group A vs. Group C	0.2910	-4.189 to 4.771	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.176	-5.656 to 3.304	No	ns	>0.9999			
+								
+  Q0K163								
+    Group A vs. H16 C/N = 50 80 mM formic acid	3.753	-0.7268 to 8.233	No	ns	0.4449			
+    Group A vs. Group C	2.279	-2.201 to 6.759	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.474	-5.954 to 3.006	No	ns	>0.9999			
+								
+  Q0K164								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.910	-1.570 to 7.390	No	ns	0.9981			
+    Group A vs. Group C	1.215	-3.265 to 5.695	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.695	-6.175 to 2.785	No	ns	>0.9999			
+								
+  Q0K166								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.875	-2.605 to 6.355	No	ns	>0.9999			
+    Group A vs. Group C	1.110	-3.370 to 5.589	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.7654	-5.245 to 3.714	No	ns	>0.9999			
+								
+  Q0K169								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.317	-2.163 to 6.797	No	ns	>0.9999			
+    Group A vs. Group C	1.091	-3.389 to 5.571	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.226	-5.706 to 3.254	No	ns	>0.9999			
+								
+  Q0K170								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.711	-2.769 to 6.191	No	ns	>0.9999			
+    Group A vs. Group C	1.421	-3.059 to 5.901	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.2895	-4.769 to 4.190	No	ns	>0.9999			
+								
+  Q0K191								
+    Group A vs. H16 C/N = 50 80 mM formic acid	4.850	0.3704 to 9.330	Yes	*	0.0127			
+    Group A vs. Group C	4.300	-0.1803 to 8.780	No	ns	0.0927			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.5507	-5.031 to 3.929	No	ns	>0.9999			
+								
+  Q0K192								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.2527	-4.227 to 4.733	No	ns	>0.9999			
+    Group A vs. Group C	1.071	-3.409 to 5.551	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.8187	-3.661 to 5.299	No	ns	>0.9999			
+								
+  Q0K194								
+    Group A vs. H16 C/N = 50 80 mM formic acid	3.763	-0.7167 to 8.243	No	ns	0.4346			
+    Group A vs. Group C	1.816	-2.664 to 6.296	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.947	-6.427 to 2.533	No	ns	>0.9999			
+								
+  Q0K195								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.030	-2.450 to 6.510	No	ns	>0.9999			
+    Group A vs. Group C	4.682	0.2019 to 9.162	Yes	*	0.0241			
+    H16 C/N = 50 80 mM formic acid vs. Group C	2.652	-1.828 to 7.132	No	ns	>0.9999			
+								
+  Q0K198								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.087	-3.393 to 5.566	No	ns	>0.9999			
+    Group A vs. Group C	1.950	-2.530 to 6.430	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.8635	-3.616 to 5.343	No	ns	>0.9999			
+								
+  Q0K1A0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.8988	-3.581 to 5.379	No	ns	>0.9999			
+    Group A vs. Group C	2.641	-1.839 to 7.121	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	1.742	-2.738 to 6.222	No	ns	>0.9999			
+								
+  Q7WXA8;Q0K1A4								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.4304	-4.910 to 4.049	No	ns	>0.9999			
+    Group A vs. Group C	1.462	-3.018 to 5.942	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	1.892	-2.588 to 6.372	No	ns	>0.9999			
+								
+  Q0K1A5								
+    Group A vs. H16 C/N = 50 80 mM formic acid	3.246	-1.234 to 7.726	No	ns	0.9250			
+    Group A vs. Group C	1.580	-2.900 to 6.060	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.666	-6.146 to 2.813	No	ns	>0.9999			
+								
+  Q0K1A9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.967	-2.513 to 6.447	No	ns	>0.9999			
+    Group A vs. Group C	3.141	-1.339 to 7.620	No	ns	0.9682			
+    H16 C/N = 50 80 mM formic acid vs. Group C	1.174	-3.306 to 5.654	No	ns	>0.9999			
+								
+  Q0K1H1								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.7866	-5.267 to 3.693	No	ns	>0.9999			
+    Group A vs. Group C	-0.6517	-5.132 to 3.828	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.1349	-4.345 to 4.615	No	ns	>0.9999			
+								
+  Q0K1V0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.3181	-4.798 to 4.162	No	ns	>0.9999			
+    Group A vs. Group C	-0.6728	-5.153 to 3.807	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.3547	-4.835 to 4.125	No	ns	>0.9999			
+								
+  Q0K1V6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	3.463	-1.016 to 7.943	No	ns	0.7541			
+    Group A vs. Group C	3.177	-1.303 to 7.656	No	ns	0.9563			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.2869	-4.767 to 4.193	No	ns	>0.9999			
+								
+  Q0K1W3								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-1.618	-6.098 to 2.862	No	ns	>0.9999			
+    Group A vs. Group C	-3.102	-7.582 to 1.378	No	ns	0.9782			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.483	-5.963 to 2.997	No	ns	>0.9999			
+								
+  Q0K274								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.6200	-5.100 to 3.860	No	ns	>0.9999			
+    Group A vs. Group C	-0.5846	-5.064 to 3.895	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.03547	-4.444 to 4.515	No	ns	>0.9999			
+								
+  Q0K275								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.202	-3.278 to 5.682	No	ns	>0.9999			
+    Group A vs. Group C	-0.3798	-4.860 to 4.100	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.582	-6.062 to 2.898	No	ns	>0.9999			
+								
+  Q0K2D2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-2.953	-7.433 to 1.527	No	ns	0.9964			
+    Group A vs. Group C	-3.560	-8.040 to 0.9194	No	ns	0.6519			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.6071	-5.087 to 3.873	No	ns	>0.9999			
+								
+  Q0K2E5								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.2323	-4.248 to 4.712	No	ns	>0.9999			
+    Group A vs. Group C	-0.6182	-5.098 to 3.862	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.8505	-5.330 to 3.629	No	ns	>0.9999			
+								
+  Q0K2J3								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-1.691	-6.171 to 2.789	No	ns	>0.9999			
+    Group A vs. Group C	-1.165	-5.644 to 3.315	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.5265	-3.953 to 5.006	No	ns	>0.9999			
+								
+  Q0K2J8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.308	-2.172 to 6.787	No	ns	>0.9999			
+    Group A vs. Group C	0.1431	-4.337 to 4.623	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-2.164	-6.644 to 2.315	No	ns	>0.9999			
+								
+  Q0K2M8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-2.554	-7.034 to 1.926	No	ns	>0.9999			
+    Group A vs. Group C	-1.402	-5.882 to 3.078	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	1.152	-3.328 to 5.631	No	ns	>0.9999			
+								
+  Q0K2N5								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.5071	-3.973 to 4.987	No	ns	>0.9999			
+    Group A vs. Group C	-0.3186	-4.799 to 4.161	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.8257	-5.306 to 3.654	No	ns	>0.9999			
+								
+  Q0K2V0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-1.119	-5.599 to 3.361	No	ns	>0.9999			
+    Group A vs. Group C	-2.676	-7.156 to 1.803	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.557	-6.037 to 2.923	No	ns	>0.9999			
+								
+  Q0K2V4								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-2.448	-6.928 to 2.031	No	ns	>0.9999			
+    Group A vs. Group C	0.8402	-3.640 to 5.320	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	3.289	-1.191 to 7.769	No	ns	0.9001			
+								
+  Q0K393								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.110	-3.370 to 5.590	No	ns	>0.9999			
+    Group A vs. Group C	3.290	-1.190 to 7.770	No	ns	0.8990			
+    H16 C/N = 50 80 mM formic acid vs. Group C	2.180	-2.300 to 6.660	No	ns	>0.9999			
+								
+  Q0K3B6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	5.084	0.6043 to 9.564	Yes	**	0.0051			
+    Group A vs. Group C	4.844	0.3637 to 9.324	Yes	*	0.0131			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.2406	-4.721 to 4.239	No	ns	>0.9999			
+								
+  Q0K3E1								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.523	-2.957 to 6.003	No	ns	>0.9999			
+    Group A vs. Group C	0.2075	-4.272 to 4.687	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.315	-5.795 to 3.164	No	ns	>0.9999			
+								
+  Q0K3E7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	4.207	-0.2724 to 8.687	No	ns	0.1252			
+    Group A vs. Group C	4.156	-0.3237 to 8.636	No	ns	0.1472			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.05123	-4.531 to 4.429	No	ns	>0.9999			
+								
+  Q0K3T1								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-1.122	-5.602 to 3.358	No	ns	>0.9999			
+    Group A vs. Group C	-1.297	-5.777 to 3.183	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.1751	-4.655 to 4.305	No	ns	>0.9999			
+								
+  Q0K3W2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.5910	-3.889 to 5.071	No	ns	>0.9999			
+    Group A vs. Group C	0.08666	-4.393 to 4.567	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.5044	-4.984 to 3.976	No	ns	>0.9999			
+								
+  Q0K3Y4								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.982	-2.498 to 6.462	No	ns	>0.9999			
+    Group A vs. Group C	-0.2265	-4.706 to 4.253	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-2.209	-6.689 to 2.271	No	ns	>0.9999			
+								
+  Q0K4E6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-2.379	-6.859 to 2.100	No	ns	>0.9999			
+    Group A vs. Group C	-2.382	-6.862 to 2.098	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.002382	-4.482 to 4.478	No	ns	>0.9999			
+								
+  Q0K4G1								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-1.992	-6.472 to 2.488	No	ns	>0.9999			
+    Group A vs. Group C	-1.306	-5.786 to 3.174	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.6859	-3.794 to 5.166	No	ns	>0.9999			
+								
+  Q0K4K3								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-2.375	-6.855 to 2.105	No	ns	>0.9999			
+    Group A vs. Group C	-1.088	-5.568 to 3.392	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	1.287	-3.193 to 5.767	No	ns	>0.9999			
+								
+  Q0K4K6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.299	-3.181 to 5.779	No	ns	>0.9999			
+    Group A vs. Group C	-1.081	-5.561 to 3.399	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-2.380	-6.860 to 2.100	No	ns	>0.9999			
+								
+  Q0K4N0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-2.491	-6.971 to 1.989	No	ns	>0.9999			
+    Group A vs. Group C	-2.817	-7.297 to 1.662	No	ns	0.9996			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.3266	-4.807 to 4.153	No	ns	>0.9999			
+								
+  Q0K4P2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.3666	-4.113 to 4.847	No	ns	>0.9999			
+    Group A vs. Group C	-1.078	-5.558 to 3.402	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.445	-5.924 to 3.035	No	ns	>0.9999			
+								
+  Q0K5F5								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.07001	-4.550 to 4.410	No	ns	>0.9999			
+    Group A vs. Group C	1.352	-3.127 to 5.832	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	1.422	-3.057 to 5.902	No	ns	>0.9999			
+								
+  Q0K666								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.888	-1.592 to 7.368	No	ns	0.9987			
+    Group A vs. Group C	0.9917	-3.488 to 5.472	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.896	-6.376 to 2.584	No	ns	>0.9999			
+								
+  Q0K698								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.412	-2.068 to 6.892	No	ns	>0.9999			
+    Group A vs. Group C	1.504	-2.976 to 5.984	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.9084	-5.388 to 3.572	No	ns	>0.9999			
+								
+  Q0K6H7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.282	-3.197 to 5.762	No	ns	>0.9999			
+    Group A vs. Group C	1.946	-2.533 to 6.426	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.6639	-3.816 to 5.144	No	ns	>0.9999			
+								
+  Q0K6H8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-2.417	-6.897 to 2.063	No	ns	>0.9999			
+    Group A vs. Group C	-2.471	-6.950 to 2.009	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.05362	-4.534 to 4.426	No	ns	>0.9999			
+								
+  Q0K759								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-1.505	-5.984 to 2.975	No	ns	>0.9999			
+    Group A vs. Group C	-0.1890	-4.669 to 4.291	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	1.316	-3.164 to 5.795	No	ns	>0.9999			
+								
+  Q0K7F7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.857	-2.623 to 6.337	No	ns	>0.9999			
+    Group A vs. Group C	1.296	-3.184 to 5.776	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.5610	-5.041 to 3.919	No	ns	>0.9999			
+								
+  Q0K7G3								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.4844	-3.996 to 4.964	No	ns	>0.9999			
+    Group A vs. Group C	0.06507	-4.415 to 4.545	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.4193	-4.899 to 4.061	No	ns	>0.9999			
+								
+  Q0K7J6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.119	-2.361 to 6.599	No	ns	>0.9999			
+    Group A vs. Group C	0.3173	-4.163 to 4.797	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.802	-6.282 to 2.678	No	ns	>0.9999			
+								
+  Q0K7J8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.829	-1.651 to 7.309	No	ns	0.9995			
+    Group A vs. Group C	1.365	-3.115 to 5.844	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.465	-5.945 to 3.015	No	ns	>0.9999			
+								
+  Q0K7J9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.8700	-3.610 to 5.350	No	ns	>0.9999			
+    Group A vs. Group C	2.981	-1.498 to 7.461	No	ns	0.9947			
+    H16 C/N = 50 80 mM formic acid vs. Group C	2.111	-2.368 to 6.591	No	ns	>0.9999			
+								
+  Q0K7W1								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.5348	-5.015 to 3.945	No	ns	>0.9999			
+    Group A vs. Group C	-0.2403	-4.720 to 4.240	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.2945	-4.185 to 4.774	No	ns	>0.9999			
+								
+  Q0K8E6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-2.168	-6.648 to 2.312	No	ns	>0.9999			
+    Group A vs. Group C	-1.657	-6.137 to 2.823	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.5103	-3.970 to 4.990	No	ns	>0.9999			
+								
+  Q0K8P7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	4.653	0.1733 to 9.133	Yes	*	0.0268			
+    Group A vs. Group C	6.039	1.559 to 10.52	Yes	****	<0.0001			
+    H16 C/N = 50 80 mM formic acid vs. Group C	1.386	-3.094 to 5.866	No	ns	>0.9999			
+								
+  Q0K924								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-3.003	-7.483 to 1.477	No	ns	0.9929			
+    Group A vs. Group C	-1.559	-6.039 to 2.921	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	1.444	-3.036 to 5.924	No	ns	>0.9999			
+								
+  Q0K925								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.4993	-3.981 to 4.979	No	ns	>0.9999			
+    Group A vs. Group C	1.227	-3.253 to 5.707	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.7280	-3.752 to 5.208	No	ns	>0.9999			
+								
+  Q0K9N8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-2.093	-6.573 to 2.387	No	ns	>0.9999			
+    Group A vs. Group C	-2.428	-6.908 to 2.052	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.3351	-4.815 to 4.145	No	ns	>0.9999			
+								
+  Q0KA08								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.9286	-5.409 to 3.551	No	ns	>0.9999			
+    Group A vs. Group C	0.5915	-3.888 to 5.071	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	1.520	-2.960 to 6.000	No	ns	>0.9999			
+								
+  Q0KAD2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.4506	-4.931 to 4.029	No	ns	>0.9999			
+    Group A vs. Group C	-0.9356	-5.416 to 3.544	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.4850	-4.965 to 3.995	No	ns	>0.9999			
+								
+  Q0KAH7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-1.215	-5.695 to 3.265	No	ns	>0.9999			
+    Group A vs. Group C	0.2889	-4.191 to 4.769	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	1.504	-2.976 to 5.984	No	ns	>0.9999			
+								
+  Q0KAZ6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.198	-3.282 to 5.678	No	ns	>0.9999			
+    Group A vs. Group C	2.821	-1.659 to 7.301	No	ns	0.9996			
+    H16 C/N = 50 80 mM formic acid vs. Group C	1.623	-2.857 to 6.103	No	ns	>0.9999			
+								
+  Q0KBL4								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-3.006	-7.486 to 1.474	No	ns	0.9926			
+    Group A vs. Group C	-2.579	-7.059 to 1.901	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.4275	-4.052 to 4.907	No	ns	>0.9999			
+								
+  Q0KBL5								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-4.495	-8.975 to -0.01544	Yes	*	0.0473			
+    Group A vs. Group C	-4.386	-8.866 to 0.09380	No	ns	0.0693			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.1092	-4.371 to 4.589	No	ns	>0.9999			
+								
+  Q0KBL6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-4.135	-8.615 to 0.3451	No	ns	0.1573			
+    Group A vs. Group C	-4.724	-9.204 to -0.2443	Yes	*	0.0206			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.5893	-5.069 to 3.891	No	ns	>0.9999			
+								
+  Q0KBN0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.4720	-4.952 to 4.008	No	ns	>0.9999			
+    Group A vs. Group C	-1.088	-5.567 to 3.392	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.6156	-5.095 to 3.864	No	ns	>0.9999			
+								
+  Q0KCD2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.680	-2.800 to 6.160	No	ns	>0.9999			
+    Group A vs. Group C	-0.2060	-4.686 to 4.274	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.886	-6.366 to 2.594	No	ns	>0.9999			
+								
+  Q0KCQ8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.08607	-4.566 to 4.394	No	ns	>0.9999			
+    Group A vs. Group C	0.06156	-4.418 to 4.541	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.1476	-4.332 to 4.628	No	ns	>0.9999			
+								
+  Q0KCR4								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.5441	-5.024 to 3.936	No	ns	>0.9999			
+    Group A vs. Group C	-0.7371	-5.217 to 3.743	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.1931	-4.673 to 4.287	No	ns	>0.9999			
+								
+  Q0KD39								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-2.944	-7.424 to 1.536	No	ns	0.9969			
+    Group A vs. Group C	-2.058	-6.538 to 2.422	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.8857	-3.594 to 5.366	No	ns	>0.9999			
+								
+  Q0KDK3								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.2394	-4.719 to 4.240	No	ns	>0.9999			
+    Group A vs. Group C	-2.219	-6.699 to 2.261	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.979	-6.459 to 2.501	No	ns	>0.9999			
+								
+  Q0KE24								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.5652	-3.915 to 5.045	No	ns	>0.9999			
+    Group A vs. Group C	3.226	-1.254 to 7.706	No	ns	0.9352			
+    H16 C/N = 50 80 mM formic acid vs. Group C	2.661	-1.819 to 7.141	No	ns	>0.9999			
+								
+  Q0KE90								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.5651	-5.045 to 3.915	No	ns	>0.9999			
+    Group A vs. Group C	-2.646	-7.126 to 1.834	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-2.080	-6.560 to 2.399	No	ns	>0.9999			
+								
+  Q0KEJ8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.5962	-5.076 to 3.884	No	ns	>0.9999			
+    Group A vs. Group C	0.2282	-4.252 to 4.708	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.8244	-3.656 to 5.304	No	ns	>0.9999			
+								
+  Q0KET0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.345	-2.135 to 6.825	No	ns	>0.9999			
+    Group A vs. Group C	0.3682	-4.112 to 4.848	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.977	-6.457 to 2.503	No	ns	>0.9999			
+								
+  Q0KEV1;Q0K2T9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.2327	-4.247 to 4.713	No	ns	>0.9999			
+    Group A vs. Group C	-2.666	-7.146 to 1.813	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-2.899	-7.379 to 1.581	No	ns	0.9984			
+								
+  Q0KEW2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.8706	-5.351 to 3.609	No	ns	>0.9999			
+    Group A vs. Group C	-0.5902	-5.070 to 3.890	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.2804	-4.200 to 4.760	No	ns	>0.9999			
+								
+  Q0KF81								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.133	-2.347 to 6.613	No	ns	>0.9999			
+    Group A vs. Group C	4.818	0.3381 to 9.298	Yes	*	0.0144			
+    H16 C/N = 50 80 mM formic acid vs. Group C	2.685	-1.795 to 7.165	No	ns	>0.9999			
+								
+  Q0KFD7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.8834	-5.363 to 3.597	No	ns	>0.9999			
+    Group A vs. Group C	-0.6699	-5.150 to 3.810	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.2135	-4.266 to 4.693	No	ns	>0.9999			
+								
+  Q0KFI6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.216	-3.264 to 5.696	No	ns	>0.9999			
+    Group A vs. Group C	1.776	-2.704 to 6.256	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.5603	-3.920 to 5.040	No	ns	>0.9999			
+								
+  Q0KFJ8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.6480	-3.832 to 5.128	No	ns	>0.9999			
+    Group A vs. Group C	0.08850	-4.391 to 4.568	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.5595	-5.039 to 3.920	No	ns	>0.9999			
+								
+  Q59101								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.346	-3.134 to 5.826	No	ns	>0.9999			
+    Group A vs. Group C	0.8496	-3.630 to 5.330	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.4961	-4.976 to 3.984	No	ns	>0.9999			
+								
+  Q59105								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-1.125	-5.605 to 3.354	No	ns	>0.9999			
+    Group A vs. Group C	-1.934	-6.414 to 2.546	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.8088	-5.289 to 3.671	No	ns	>0.9999			
+								
+  Q79IN9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.8513	-3.629 to 5.331	No	ns	>0.9999			
+    Group A vs. Group C	1.275	-3.205 to 5.755	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.4233	-4.057 to 4.903	No	ns	>0.9999			
+								
+  Q79IP0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.248	-3.232 to 5.728	No	ns	>0.9999			
+    Group A vs. Group C	1.669	-2.811 to 6.149	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.4206	-4.059 to 4.901	No	ns	>0.9999			
+								
+  Q79IP6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.7706	-3.709 to 5.250	No	ns	>0.9999			
+    Group A vs. Group C	0.3854	-4.095 to 4.865	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.3852	-4.865 to 4.095	No	ns	>0.9999			
+								
+  Q79IP7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.9544	-3.526 to 5.434	No	ns	>0.9999			
+    Group A vs. Group C	0.9443	-3.536 to 5.424	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.01008	-4.490 to 4.470	No	ns	>0.9999			
+								
+  Q79IP8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.893	-2.587 to 6.373	No	ns	>0.9999			
+    Group A vs. Group C	1.551	-2.928 to 6.031	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.3419	-4.822 to 4.138	No	ns	>0.9999			
+								
+  Q7WSB2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	3.467	-1.013 to 7.947	No	ns	0.7502			
+    Group A vs. Group C	3.191	-1.289 to 7.670	No	ns	0.9510			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.2767	-4.757 to 4.203	No	ns	>0.9999			
+								
+  Q7WWT7;Q0KAA4;Q7WWU8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.6083	-3.872 to 5.088	No	ns	>0.9999			
+    Group A vs. Group C	-0.3299	-4.810 to 4.150	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.9382	-5.418 to 3.542	No	ns	>0.9999			
+								
+  Q7WWT9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.086	-3.394 to 5.566	No	ns	>0.9999			
+    Group A vs. Group C	0.9323	-3.548 to 5.412	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.1537	-4.634 to 4.326	No	ns	>0.9999			
+								
+  Q7WWU0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	3.827	-0.6534 to 8.306	No	ns	0.3736			
+    Group A vs. Group C	3.485	-0.9951 to 7.965	No	ns	0.7324			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.3417	-4.822 to 4.138	No	ns	>0.9999			
+								
+  Q7WWU7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.747	-2.733 to 6.226	No	ns	>0.9999			
+    Group A vs. Group C	0.1867	-4.293 to 4.667	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.560	-6.040 to 2.920	No	ns	>0.9999			
+								
+  Q7WWV0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.094	-2.386 to 6.574	No	ns	>0.9999			
+    Group A vs. Group C	2.555	-1.924 to 7.035	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.4616	-4.018 to 4.942	No	ns	>0.9999			
+								
+  Q7WWW3								
+    Group A vs. H16 C/N = 50 80 mM formic acid	3.432	-1.048 to 7.912	No	ns	0.7847			
+    Group A vs. Group C	4.250	-0.2303 to 8.730	No	ns	0.1093			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.8176	-3.662 to 5.298	No	ns	>0.9999			
+								
+  Q7WWW7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.1230	-4.357 to 4.603	No	ns	>0.9999			
+    Group A vs. Group C	-0.2083	-4.688 to 4.272	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.3313	-4.811 to 4.149	No	ns	>0.9999			
+								
+  Q7WWW8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.464	-3.016 to 5.944	No	ns	>0.9999			
+    Group A vs. Group C	-0.8112	-5.291 to 3.669	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-2.275	-6.755 to 2.205	No	ns	>0.9999			
+								
+  Q7WWX2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-3.854	-8.334 to 0.6258	No	ns	0.3486			
+    Group A vs. Group C	-0.3123	-4.792 to 4.168	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	3.542	-0.9382 to 8.022	No	ns	0.6723			
+								
+  Q7WWX9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-1.774	-6.254 to 2.706	No	ns	>0.9999			
+    Group A vs. Group C	0.6755	-3.804 to 5.155	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	2.450	-2.030 to 6.930	No	ns	>0.9999			
+								
+  Q7WWY4								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-2.366	-6.846 to 2.114	No	ns	>0.9999			
+    Group A vs. Group C	0.6547	-3.825 to 5.135	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	3.021	-1.459 to 7.501	No	ns	0.9912			
+								
+  Q7WWZ6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-3.711	-8.191 to 0.7689	No	ns	0.4883			
+    Group A vs. Group C	-0.9269	-5.407 to 3.553	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	2.784	-1.696 to 7.264	No	ns	0.9998			
+								
+  Q7WWZ7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-1.396	-5.876 to 3.084	No	ns	>0.9999			
+    Group A vs. Group C	-0.7095	-5.189 to 3.770	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.6862	-3.794 to 5.166	No	ns	>0.9999			
+								
+  Q7WX00								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.2197	-4.700 to 4.260	No	ns	>0.9999			
+    Group A vs. Group C	-0.7271	-5.207 to 3.753	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.5073	-4.987 to 3.973	No	ns	>0.9999			
+								
+  Q7WX12								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-1.990	-6.470 to 2.490	No	ns	>0.9999			
+    Group A vs. Group C	-0.6784	-5.158 to 3.801	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	1.312	-3.168 to 5.792	No	ns	>0.9999			
+								
+  Q7WX14								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-1.199	-5.679 to 3.281	No	ns	>0.9999			
+    Group A vs. Group C	-0.3517	-4.832 to 4.128	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.8471	-3.633 to 5.327	No	ns	>0.9999			
+								
+  Q7WX43								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-2.611	-7.091 to 1.869	No	ns	>0.9999			
+    Group A vs. Group C	-0.1137	-4.594 to 4.366	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	2.497	-1.983 to 6.977	No	ns	>0.9999			
+								
+  Q7WX46								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-3.902	-8.381 to 0.5784	No	ns	0.3083			
+    Group A vs. Group C	-0.8415	-5.321 to 3.638	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	3.060	-1.420 to 7.540	No	ns	0.9860			
+								
+  Q7WX55								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.6643	-3.816 to 5.144	No	ns	>0.9999			
+    Group A vs. Group C	-0.05157	-4.531 to 4.428	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.7159	-5.196 to 3.764	No	ns	>0.9999			
+								
+  Q7WXD2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.344	-3.136 to 5.824	No	ns	>0.9999			
+    Group A vs. Group C	-0.6970	-5.177 to 3.783	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-2.041	-6.521 to 2.439	No	ns	>0.9999			
+								
+  Q7WXE2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.8193	-3.661 to 5.299	No	ns	>0.9999			
+    Group A vs. Group C	1.157	-3.323 to 5.637	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.3375	-4.142 to 4.817	No	ns	>0.9999			
+								
+  Q7WXE7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.1204	-4.600 to 4.359	No	ns	>0.9999			
+    Group A vs. Group C	0.9919	-3.488 to 5.472	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	1.112	-3.368 to 5.592	No	ns	>0.9999			
+								
+  Q7WXF0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.112	-3.368 to 5.592	No	ns	>0.9999			
+    Group A vs. Group C	0.2653	-4.215 to 4.745	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.8467	-5.327 to 3.633	No	ns	>0.9999			
+								
+  Q7WXF4								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.3947	-4.085 to 4.875	No	ns	>0.9999			
+    Group A vs. Group C	0.1556	-4.324 to 4.635	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.2391	-4.719 to 4.241	No	ns	>0.9999			
+								
+  Q7WXF5								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.763	-1.717 to 7.243	No	ns	0.9999			
+    Group A vs. Group C	3.828	-0.6524 to 8.307	No	ns	0.3727			
+    H16 C/N = 50 80 mM formic acid vs. Group C	1.065	-3.415 to 5.544	No	ns	>0.9999			
+								
+  Q7WXF9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-1.941	-6.420 to 2.539	No	ns	>0.9999			
+    Group A vs. Group C	-2.035	-6.515 to 2.445	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.09421	-4.574 to 4.386	No	ns	>0.9999			
+								
+  Q7WXG2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.3733	-4.107 to 4.853	No	ns	>0.9999			
+    Group A vs. Group C	0.7066	-3.773 to 5.186	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.3333	-4.147 to 4.813	No	ns	>0.9999			
+								
+  Q7WXG6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.9687	-5.449 to 3.511	No	ns	>0.9999			
+    Group A vs. Group C	-2.449	-6.929 to 2.031	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.480	-5.960 to 3.000	No	ns	>0.9999			
+								
+  Q7WXG8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.5710	-5.051 to 3.909	No	ns	>0.9999			
+    Group A vs. Group C	-1.191	-5.671 to 3.289	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.6196	-5.100 to 3.860	No	ns	>0.9999			
+								
+  Q7WXH0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.375	-3.105 to 5.854	No	ns	>0.9999			
+    Group A vs. Group C	0.9886	-3.491 to 5.468	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.3859	-4.866 to 4.094	No	ns	>0.9999			
+								
+  Q7WXI6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.492	-2.988 to 5.971	No	ns	>0.9999			
+    Group A vs. Group C	1.003	-3.477 to 5.483	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.4888	-4.969 to 3.991	No	ns	>0.9999			
+								
+  Q7WXI7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	2.680	-1.800 to 7.160	No	ns	>0.9999			
+    Group A vs. Group C	1.543	-2.937 to 6.023	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.137	-5.617 to 3.343	No	ns	>0.9999			
+								
+  Q7WXL4								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.9586	-3.521 to 5.439	No	ns	>0.9999			
+    Group A vs. Group C	-0.1020	-4.582 to 4.378	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-1.061	-5.541 to 3.419	No	ns	>0.9999			
+								
+  Q7WXL9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.4981	-4.978 to 3.982	No	ns	>0.9999			
+    Group A vs. Group C	-0.7484	-5.228 to 3.732	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.2503	-4.730 to 4.230	No	ns	>0.9999			
+								
+  Q7WXM8;Q7WXP0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.8668	-3.613 to 5.347	No	ns	>0.9999			
+    Group A vs. Group C	1.171	-3.309 to 5.651	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	0.3045	-4.175 to 4.784	No	ns	>0.9999			
+								
+  Q7WXM9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.9276	-5.408 to 3.552	No	ns	>0.9999			
+    Group A vs. Group C	0.1275	-4.352 to 4.607	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	1.055	-3.425 to 5.535	No	ns	>0.9999			
+								
+  Q7WXT8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	-0.7698	-5.250 to 3.710	No	ns	>0.9999			
+    Group A vs. Group C	-1.169	-5.649 to 3.311	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.3994	-4.879 to 4.080	No	ns	>0.9999			
+								
+  Q7WXT9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	0.7110	-3.769 to 5.191	No	ns	>0.9999			
+    Group A vs. Group C	0.4758	-4.004 to 4.956	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.2351	-4.715 to 4.245	No	ns	>0.9999			
+								
+  Q7WXU0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	1.132	-3.348 to 5.612	No	ns	>0.9999			
+    Group A vs. Group C	0.1395	-4.340 to 4.619	No	ns	>0.9999			
+    H16 C/N = 50 80 mM formic acid vs. Group C	-0.9927	-5.473 to 3.487	No	ns	>0.9999			
+								
+								
+Test details	Mean 1	Mean 2	Mean Diff.	SE of diff.	N1	N2	t	DF
+								
+  O07451								
+    Group A vs. H16 C/N = 50 80 mM formic acid	18.13	16.90	1.230	1.140	4	4	1.079	1737
+    Group A vs. Group C	18.13	16.66	1.467	1.140	4	4	1.287	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	16.90	16.66	0.2374	1.140	4	4	0.2082	1737
+								
+  P19924								
+    Group A vs. H16 C/N = 50 80 mM formic acid	20.40	18.15	2.243	1.140	4	4	1.967	1737
+    Group A vs. Group C	20.40	17.81	2.590	1.140	4	4	2.272	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	18.15	17.81	0.3478	1.140	4	4	0.3051	1737
+								
+  P21726								
+    Group A vs. H16 C/N = 50 80 mM formic acid	22.53	20.38	2.145	1.140	4	4	1.882	1737
+    Group A vs. Group C	22.53	20.86	1.673	1.140	4	4	1.468	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	20.38	20.86	-0.4721	1.140	4	4	0.4141	1737
+								
+  P22317								
+    Group A vs. H16 C/N = 50 80 mM formic acid	22.71	21.38	1.327	1.140	4	4	1.164	1737
+    Group A vs. Group C	22.71	21.44	1.266	1.140	4	4	1.111	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	21.38	21.44	-0.06089	1.140	4	4	0.05341	1737
+								
+  P22318								
+    Group A vs. H16 C/N = 50 80 mM formic acid	21.56	20.34	1.220	1.140	4	4	1.070	1737
+    Group A vs. Group C	21.56	20.08	1.480	1.140	4	4	1.298	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	20.34	20.08	0.2601	1.140	4	4	0.2282	1737
+								
+  P22319								
+    Group A vs. H16 C/N = 50 80 mM formic acid	20.85	19.46	1.393	1.140	4	4	1.222	1737
+    Group A vs. Group C	20.85	19.60	1.255	1.140	4	4	1.101	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	19.46	19.60	-0.1385	1.140	4	4	0.1214	1737
+								
+  P22320								
+    Group A vs. H16 C/N = 50 80 mM formic acid	22.44	21.53	0.9189	1.140	4	4	0.8059	1737
+    Group A vs. Group C	22.44	20.96	1.484	1.140	4	4	1.302	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	21.53	20.96	0.5653	1.140	4	4	0.4958	1737
+								
+  P29267								
+    Group A vs. H16 C/N = 50 80 mM formic acid	18.81	17.80	1.011	1.140	4	4	0.8864	1737
+    Group A vs. Group C	18.81	18.25	0.5595	1.140	4	4	0.4907	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	17.80	18.25	-0.4511	1.140	4	4	0.3957	1737
+								
+  P31891								
+    Group A vs. H16 C/N = 50 80 mM formic acid	22.67	21.14	1.523	1.140	4	4	1.335	1737
+    Group A vs. Group C	22.67	21.28	1.382	1.140	4	4	1.212	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	21.14	21.28	-0.1410	1.140	4	4	0.1237	1737
+								
+  P31892								
+    Group A vs. H16 C/N = 50 80 mM formic acid	21.74	20.49	1.250	1.140	4	4	1.096	1737
+    Group A vs. Group C	21.74	21.02	0.7172	1.140	4	4	0.6290	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	20.49	21.02	-0.5324	1.140	4	4	0.4670	1737
+								
+  P31898								
+    Group A vs. H16 C/N = 50 80 mM formic acid	18.99	19.79	-0.7961	1.140	4	4	0.6982	1737
+    Group A vs. Group C	18.99	19.65	-0.6586	1.140	4	4	0.5776	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	19.79	19.65	0.1375	1.140	4	4	0.1206	1737
+								
+  P31900								
+    Group A vs. H16 C/N = 50 80 mM formic acid	18.83	16.65	2.186	1.140	4	4	1.918	1737
+    Group A vs. Group C	18.83	17.01	1.825	1.140	4	4	1.600	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	16.65	17.01	-0.3615	1.140	4	4	0.3170	1737
+								
+  P31901								
+    Group A vs. H16 C/N = 50 80 mM formic acid	17.49	16.60	0.8951	1.140	4	4	0.7850	1737
+    Group A vs. Group C	17.49	18.10	-0.6067	1.140	4	4	0.5321	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	16.60	18.10	-1.502	1.140	4	4	1.317	1737
+								
+  P31902								
+    Group A vs. H16 C/N = 50 80 mM formic acid	22.13	21.23	0.9047	1.140	4	4	0.7934	1737
+    Group A vs. Group C	22.13	21.69	0.4370	1.140	4	4	0.3833	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	21.23	21.69	-0.4677	1.140	4	4	0.4102	1737
+								
+  P31905								
+    Group A vs. H16 C/N = 50 80 mM formic acid	19.40	18.18	1.226	1.140	4	4	1.075	1737
+    Group A vs. Group C	19.40	19.38	0.02514	1.140	4	4	0.02205	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	18.18	19.38	-1.201	1.140	4	4	1.053	1737
+								
+  P31909								
+    Group A vs. H16 C/N = 50 80 mM formic acid	17.57	16.17	1.395	1.140	4	4	1.224	1737
+    Group A vs. Group C	17.57	16.44	1.126	1.140	4	4	0.9877	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	16.17	16.44	-0.2692	1.140	4	4	0.2361	1737
+								
+  P31910								
+    Group A vs. H16 C/N = 50 80 mM formic acid	19.47	18.99	0.4803	1.140	4	4	0.4213	1737
+    Group A vs. Group C	19.47	19.29	0.1773	1.140	4	4	0.1555	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	18.99	19.29	-0.3030	1.140	4	4	0.2657	1737
+								
+  P31911								
+    Group A vs. H16 C/N = 50 80 mM formic acid	18.79	17.63	1.162	1.140	4	4	1.019	1737
+    Group A vs. Group C	18.79	18.20	0.5852	1.140	4	4	0.5132	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	17.63	18.20	-0.5767	1.140	4	4	0.5058	1737
+								
+  P31914								
+    Group A vs. H16 C/N = 50 80 mM formic acid	19.14	18.29	0.8436	1.140	4	4	0.7399	1737
+    Group A vs. Group C	19.14	18.07	1.072	1.140	4	4	0.9402	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	18.29	18.07	0.2284	1.140	4	4	0.2003	1737
+								
+  P39185								
+    Group A vs. H16 C/N = 50 80 mM formic acid	17.29	15.82	1.473	1.140	4	4	1.291	1737
+    Group A vs. Group C	17.29	15.95	1.345	1.140	4	4	1.179	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.82	15.95	-0.1278	1.140	4	4	0.1121	1737
+								
+  P39662								
+    Group A vs. H16 C/N = 50 80 mM formic acid	19.15	18.89	0.2600	1.140	4	4	0.2280	1737
+    Group A vs. Group C	19.15	19.11	0.03776	1.140	4	4	0.03312	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	18.89	19.11	-0.2222	1.140	4	4	0.1949	1737
+								
+  P40853								
+    Group A vs. H16 C/N = 50 80 mM formic acid	20.01	19.20	0.8144	1.140	4	4	0.7142	1737
+    Group A vs. Group C	20.01	18.97	1.042	1.140	4	4	0.9138	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	19.20	18.97	0.2275	1.140	4	4	0.1995	1737
+								
+  P42721								
+    Group A vs. H16 C/N = 50 80 mM formic acid	23.96	23.21	0.7491	1.140	4	4	0.6570	1737
+    Group A vs. Group C	23.96	23.48	0.4797	1.140	4	4	0.4207	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	23.21	23.48	-0.2694	1.140	4	4	0.2363	1737
+								
+  P45805								
+    Group A vs. H16 C/N = 50 80 mM formic acid	20.73	19.80	0.9232	1.140	4	4	0.8097	1737
+    Group A vs. Group C	20.73	20.02	0.7036	1.140	4	4	0.6171	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	19.80	20.02	-0.2197	1.140	4	4	0.1927	1737
+								
+  P50320								
+    Group A vs. H16 C/N = 50 80 mM formic acid	23.05	21.54	1.511	1.140	4	4	1.325	1737
+    Group A vs. Group C	23.05	22.35	0.6975	1.140	4	4	0.6117	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	21.54	22.35	-0.8136	1.140	4	4	0.7136	1737
+								
+  Q04541								
+    Group A vs. H16 C/N = 50 80 mM formic acid	20.76	15.26	5.502	1.140	4	4	4.826	1737
+    Group A vs. Group C	20.76	17.26	3.497	1.140	4	4	3.067	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.26	17.26	-2.005	1.140	4	4	1.758	1737
+								
+  Q0JY89								
+    Group A vs. H16 C/N = 50 80 mM formic acid	17.11	14.98	2.136	1.140	4	4	1.874	1737
+    Group A vs. Group C	17.11	13.62	3.497	1.140	4	4	3.067	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.98	13.62	1.361	1.140	4	4	1.193	1737
+								
+  Q0JYB7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.59	14.85	0.7459	1.140	4	4	0.6542	1737
+    Group A vs. Group C	15.59	12.07	3.527	1.140	4	4	3.094	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.85	12.07	2.781	1.140	4	4	2.440	1737
+								
+  Q0JYJ3								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.60	12.93	1.670	1.140	4	4	1.465	1737
+    Group A vs. Group C	14.60	14.67	-0.07043	1.140	4	4	0.06177	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	12.93	14.67	-1.741	1.140	4	4	1.527	1737
+								
+  Q0JYL9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	12.21	12.74	-0.5335	1.140	4	4	0.4679	1737
+    Group A vs. Group C	12.21	13.54	-1.330	1.140	4	4	1.167	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	12.74	13.54	-0.7970	1.140	4	4	0.6990	1737
+								
+  Q0JYM3								
+    Group A vs. H16 C/N = 50 80 mM formic acid	12.97	13.56	-0.5960	1.140	4	4	0.5228	1737
+    Group A vs. Group C	12.97	14.58	-1.614	1.140	4	4	1.415	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.56	14.58	-1.018	1.140	4	4	0.8924	1737
+								
+  Q0JYN0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.60	14.53	0.07619	1.140	4	4	0.06682	1737
+    Group A vs. Group C	14.60	14.18	0.4254	1.140	4	4	0.3731	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.53	14.18	0.3492	1.140	4	4	0.3063	1737
+								
+  Q0JYP7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.01	12.86	2.154	1.140	4	4	1.890	1737
+    Group A vs. Group C	15.01	14.35	0.6617	1.140	4	4	0.5803	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	12.86	14.35	-1.493	1.140	4	4	1.309	1737
+								
+  Q0JZ02								
+    Group A vs. H16 C/N = 50 80 mM formic acid	12.12	14.42	-2.305	1.140	4	4	2.022	1737
+    Group A vs. Group C	12.12	10.72	1.403	1.140	4	4	1.231	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.42	10.72	3.709	1.140	4	4	3.253	1737
+								
+  Q0JZ55								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.96	12.18	2.781	1.140	4	4	2.439	1737
+    Group A vs. Group C	14.96	12.47	2.488	1.140	4	4	2.183	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	12.18	12.47	-0.2929	1.140	4	4	0.2569	1737
+								
+  Q0JZ60								
+    Group A vs. H16 C/N = 50 80 mM formic acid	12.91	14.92	-2.013	1.140	4	4	1.766	1737
+    Group A vs. Group C	12.91	12.87	0.03451	1.140	4	4	0.03027	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.92	12.87	2.048	1.140	4	4	1.796	1737
+								
+  Q0JZB2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	12.70	13.60	-0.8972	1.140	4	4	0.7869	1737
+    Group A vs. Group C	12.70	13.57	-0.8723	1.140	4	4	0.7651	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.60	13.57	0.02483	1.140	4	4	0.02178	1737
+								
+  Q0JZF7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.48	18.63	-3.144	1.140	4	4	2.758	1737
+    Group A vs. Group C	15.48	17.25	-1.769	1.140	4	4	1.551	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	18.63	17.25	1.375	1.140	4	4	1.206	1737
+								
+  Q0JZH2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.58	12.78	1.804	1.140	4	4	1.582	1737
+    Group A vs. Group C	14.58	10.48	4.104	1.140	4	4	3.599	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	12.78	10.48	2.300	1.140	4	4	2.017	1737
+								
+  Q0JZL1								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.47	13.06	2.408	1.140	4	4	2.112	1737
+    Group A vs. Group C	15.47	12.76	2.706	1.140	4	4	2.374	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.06	12.76	0.2978	1.140	4	4	0.2612	1737
+								
+  Q0JZR8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	19.18	14.28	4.895	1.140	4	4	4.293	1737
+    Group A vs. Group C	19.18	13.52	5.656	1.140	4	4	4.961	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.28	13.52	0.7616	1.140	4	4	0.6679	1737
+								
+  Q0JZV9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	12.99	13.54	-0.5585	1.140	4	4	0.4899	1737
+    Group A vs. Group C	12.99	15.44	-2.451	1.140	4	4	2.150	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.54	15.44	-1.893	1.140	4	4	1.660	1737
+								
+  Q0K059								
+    Group A vs. H16 C/N = 50 80 mM formic acid	12.82	14.89	-2.074	1.140	4	4	1.819	1737
+    Group A vs. Group C	12.82	15.33	-2.518	1.140	4	4	2.208	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.89	15.33	-0.4436	1.140	4	4	0.3890	1737
+								
+  Q0K0G5								
+    Group A vs. H16 C/N = 50 80 mM formic acid	13.03	15.32	-2.292	1.140	4	4	2.010	1737
+    Group A vs. Group C	13.03	13.06	-0.02822	1.140	4	4	0.02475	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.32	13.06	2.263	1.140	4	4	1.985	1737
+								
+  Q0K0M2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.85	13.07	2.780	1.140	4	4	2.438	1737
+    Group A vs. Group C	15.85	12.05	3.796	1.140	4	4	3.330	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.07	12.05	1.017	1.140	4	4	0.8917	1737
+								
+  Q0K0U5								
+    Group A vs. H16 C/N = 50 80 mM formic acid	13.93	11.88	2.046	1.140	4	4	1.794	1737
+    Group A vs. Group C	13.93	14.70	-0.7727	1.140	4	4	0.6777	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	11.88	14.70	-2.819	1.140	4	4	2.472	1737
+								
+  Q0K0Y5								
+    Group A vs. H16 C/N = 50 80 mM formic acid	13.33	13.38	-0.04767	1.140	4	4	0.04181	1737
+    Group A vs. Group C	13.33	13.88	-0.5509	1.140	4	4	0.4832	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.38	13.88	-0.5032	1.140	4	4	0.4413	1737
+								
+  Q0K0Z5								
+    Group A vs. H16 C/N = 50 80 mM formic acid	18.85	14.24	4.607	1.140	4	4	4.041	1737
+    Group A vs. Group C	18.85	14.17	4.675	1.140	4	4	4.100	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.24	14.17	0.06779	1.140	4	4	0.05945	1737
+								
+  Q0K103								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.86	12.25	2.612	1.140	4	4	2.291	1737
+    Group A vs. Group C	14.86	13.94	0.9259	1.140	4	4	0.8121	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	12.25	13.94	-1.686	1.140	4	4	1.479	1737
+								
+  Q0K106								
+    Group A vs. H16 C/N = 50 80 mM formic acid	16.79	14.82	1.973	1.140	4	4	1.730	1737
+    Group A vs. Group C	16.79	15.41	1.383	1.140	4	4	1.213	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.82	15.41	-0.5896	1.140	4	4	0.5171	1737
+								
+  Q0K108								
+    Group A vs. H16 C/N = 50 80 mM formic acid	18.16	13.85	4.306	1.140	4	4	3.777	1737
+    Group A vs. Group C	18.16	15.95	2.208	1.140	4	4	1.936	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.85	15.95	-2.099	1.140	4	4	1.841	1737
+								
+  Q0K110								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.55	12.39	3.167	1.140	4	4	2.778	1737
+    Group A vs. Group C	15.55	14.04	1.518	1.140	4	4	1.331	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	12.39	14.04	-1.649	1.140	4	4	1.446	1737
+								
+  Q0K113								
+    Group A vs. H16 C/N = 50 80 mM formic acid	17.89	16.52	1.375	1.140	4	4	1.206	1737
+    Group A vs. Group C	17.89	17.68	0.2091	1.140	4	4	0.1834	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	16.52	17.68	-1.166	1.140	4	4	1.022	1737
+								
+  Q0K114								
+    Group A vs. H16 C/N = 50 80 mM formic acid	17.80	16.84	0.9618	1.140	4	4	0.8436	1737
+    Group A vs. Group C	17.80	17.48	0.3212	1.140	4	4	0.2817	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	16.84	17.48	-0.6406	1.140	4	4	0.5618	1737
+								
+  Q0K115								
+    Group A vs. H16 C/N = 50 80 mM formic acid	17.84	17.56	0.2809	1.140	4	4	0.2463	1737
+    Group A vs. Group C	17.84	17.17	0.6661	1.140	4	4	0.5842	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	17.56	17.17	0.3852	1.140	4	4	0.3379	1737
+								
+  Q0K124								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.99	11.83	3.156	1.140	4	4	2.768	1737
+    Group A vs. Group C	14.99	14.23	0.7561	1.140	4	4	0.6631	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	11.83	14.23	-2.400	1.140	4	4	2.105	1737
+								
+  Q0K125								
+    Group A vs. H16 C/N = 50 80 mM formic acid	13.90	12.57	1.328	1.140	4	4	1.165	1737
+    Group A vs. Group C	13.90	14.12	-0.2248	1.140	4	4	0.1972	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	12.57	14.12	-1.553	1.140	4	4	1.362	1737
+								
+  Q0K127								
+    Group A vs. H16 C/N = 50 80 mM formic acid	16.71	11.86	4.843	1.140	4	4	4.248	1737
+    Group A vs. Group C	16.71	14.08	2.621	1.140	4	4	2.299	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	11.86	14.08	-2.222	1.140	4	4	1.949	1737
+								
+  Q0K129								
+    Group A vs. H16 C/N = 50 80 mM formic acid	17.84	16.16	1.676	1.140	4	4	1.470	1737
+    Group A vs. Group C	17.84	16.89	0.9510	1.140	4	4	0.8341	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	16.16	16.89	-0.7252	1.140	4	4	0.6361	1737
+								
+  Q0K130								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.38	13.68	1.699	1.140	4	4	1.490	1737
+    Group A vs. Group C	15.38	12.84	2.540	1.140	4	4	2.227	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.68	12.84	0.8408	1.140	4	4	0.7374	1737
+								
+  Q0K132								
+    Group A vs. H16 C/N = 50 80 mM formic acid	16.23	14.02	2.205	1.140	4	4	1.934	1737
+    Group A vs. Group C	16.23	16.23	-0.004006	1.140	4	4	0.003514	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.02	16.23	-2.209	1.140	4	4	1.938	1737
+								
+  Q0K135								
+    Group A vs. H16 C/N = 50 80 mM formic acid	17.86	18.21	-0.3433	1.140	4	4	0.3011	1737
+    Group A vs. Group C	17.86	19.27	-1.404	1.140	4	4	1.231	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	18.21	19.27	-1.060	1.140	4	4	0.9300	1737
+								
+  Q0K150								
+    Group A vs. H16 C/N = 50 80 mM formic acid	16.57	14.50	2.072	1.140	4	4	1.817	1737
+    Group A vs. Group C	16.57	14.46	2.113	1.140	4	4	1.854	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.50	14.46	0.04174	1.140	4	4	0.03661	1737
+								
+  Q0K154								
+    Group A vs. H16 C/N = 50 80 mM formic acid	13.79	13.27	0.5158	1.140	4	4	0.4524	1737
+    Group A vs. Group C	13.79	12.83	0.9562	1.140	4	4	0.8387	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.27	12.83	0.4404	1.140	4	4	0.3863	1737
+								
+  Q0K157								
+    Group A vs. H16 C/N = 50 80 mM formic acid	18.14	16.67	1.467	1.140	4	4	1.287	1737
+    Group A vs. Group C	18.14	17.85	0.2910	1.140	4	4	0.2553	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	16.67	17.85	-1.176	1.140	4	4	1.031	1737
+								
+  Q0K163								
+    Group A vs. H16 C/N = 50 80 mM formic acid	17.87	14.12	3.753	1.140	4	4	3.292	1737
+    Group A vs. Group C	17.87	15.59	2.279	1.140	4	4	1.999	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.12	15.59	-1.474	1.140	4	4	1.293	1737
+								
+  Q0K164								
+    Group A vs. H16 C/N = 50 80 mM formic acid	16.00	13.09	2.910	1.140	4	4	2.552	1737
+    Group A vs. Group C	16.00	14.79	1.215	1.140	4	4	1.066	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.09	14.79	-1.695	1.140	4	4	1.486	1737
+								
+  Q0K166								
+    Group A vs. H16 C/N = 50 80 mM formic acid	21.55	19.67	1.875	1.140	4	4	1.644	1737
+    Group A vs. Group C	21.55	20.44	1.110	1.140	4	4	0.9731	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	19.67	20.44	-0.7654	1.140	4	4	0.6713	1737
+								
+  Q0K169								
+    Group A vs. H16 C/N = 50 80 mM formic acid	20.23	17.91	2.317	1.140	4	4	2.032	1737
+    Group A vs. Group C	20.23	19.14	1.091	1.140	4	4	0.9566	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	17.91	19.14	-1.226	1.140	4	4	1.076	1737
+								
+  Q0K170								
+    Group A vs. H16 C/N = 50 80 mM formic acid	18.76	17.05	1.711	1.140	4	4	1.500	1737
+    Group A vs. Group C	18.76	17.34	1.421	1.140	4	4	1.246	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	17.05	17.34	-0.2895	1.140	4	4	0.2539	1737
+								
+  Q0K191								
+    Group A vs. H16 C/N = 50 80 mM formic acid	18.25	13.40	4.850	1.140	4	4	4.254	1737
+    Group A vs. Group C	18.25	13.95	4.300	1.140	4	4	3.771	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.40	13.95	-0.5507	1.140	4	4	0.4830	1737
+								
+  Q0K192								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.61	14.36	0.2527	1.140	4	4	0.2216	1737
+    Group A vs. Group C	14.61	13.54	1.071	1.140	4	4	0.9397	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.36	13.54	0.8187	1.140	4	4	0.7181	1737
+								
+  Q0K194								
+    Group A vs. H16 C/N = 50 80 mM formic acid	18.16	14.40	3.763	1.140	4	4	3.301	1737
+    Group A vs. Group C	18.16	16.34	1.816	1.140	4	4	1.593	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.40	16.34	-1.947	1.140	4	4	1.708	1737
+								
+  Q0K195								
+    Group A vs. H16 C/N = 50 80 mM formic acid	17.27	15.24	2.030	1.140	4	4	1.781	1737
+    Group A vs. Group C	17.27	12.59	4.682	1.140	4	4	4.106	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.24	12.59	2.652	1.140	4	4	2.326	1737
+								
+  Q0K198								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.08	13.99	1.087	1.140	4	4	0.9530	1737
+    Group A vs. Group C	15.08	13.13	1.950	1.140	4	4	1.710	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.99	13.13	0.8635	1.140	4	4	0.7573	1737
+								
+  Q0K1A0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	16.71	15.82	0.8988	1.140	4	4	0.7883	1737
+    Group A vs. Group C	16.71	14.07	2.641	1.140	4	4	2.317	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.82	14.07	1.742	1.140	4	4	1.528	1737
+								
+  Q7WXA8;Q0K1A4								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.86	15.29	-0.4304	1.140	4	4	0.3775	1737
+    Group A vs. Group C	14.86	13.40	1.462	1.140	4	4	1.282	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.29	13.40	1.892	1.140	4	4	1.660	1737
+								
+  Q0K1A5								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.87	12.62	3.246	1.140	4	4	2.847	1737
+    Group A vs. Group C	15.87	14.29	1.580	1.140	4	4	1.385	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	12.62	14.29	-1.666	1.140	4	4	1.462	1737
+								
+  Q0K1A9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	16.78	14.82	1.967	1.140	4	4	1.725	1737
+    Group A vs. Group C	16.78	13.64	3.141	1.140	4	4	2.754	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.82	13.64	1.174	1.140	4	4	1.029	1737
+								
+  Q0K1H1								
+    Group A vs. H16 C/N = 50 80 mM formic acid	12.67	13.45	-0.7866	1.140	4	4	0.6899	1737
+    Group A vs. Group C	12.67	13.32	-0.6517	1.140	4	4	0.5716	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.45	13.32	0.1349	1.140	4	4	0.1183	1737
+								
+  Q0K1V0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	13.43	13.75	-0.3181	1.140	4	4	0.2790	1737
+    Group A vs. Group C	13.43	14.11	-0.6728	1.140	4	4	0.5901	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.75	14.11	-0.3547	1.140	4	4	0.3111	1737
+								
+  Q0K1V6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	16.89	13.42	3.463	1.140	4	4	3.038	1737
+    Group A vs. Group C	16.89	13.71	3.177	1.140	4	4	2.786	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.42	13.71	-0.2869	1.140	4	4	0.2516	1737
+								
+  Q0K1W3								
+    Group A vs. H16 C/N = 50 80 mM formic acid	12.05	13.67	-1.618	1.140	4	4	1.419	1737
+    Group A vs. Group C	12.05	15.16	-3.102	1.140	4	4	2.720	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.67	15.16	-1.483	1.140	4	4	1.301	1737
+								
+  Q0K274								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.59	16.21	-0.6200	1.140	4	4	0.5438	1737
+    Group A vs. Group C	15.59	16.17	-0.5846	1.140	4	4	0.5127	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	16.21	16.17	0.03547	1.140	4	4	0.03110	1737
+								
+  Q0K275								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.68	14.47	1.202	1.140	4	4	1.055	1737
+    Group A vs. Group C	15.68	16.06	-0.3798	1.140	4	4	0.3331	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.47	16.06	-1.582	1.140	4	4	1.388	1737
+								
+  Q0K2D2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	12.62	15.58	-2.953	1.140	4	4	2.590	1737
+    Group A vs. Group C	12.62	16.18	-3.560	1.140	4	4	3.123	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.58	16.18	-0.6071	1.140	4	4	0.5325	1737
+								
+  Q0K2E5								
+    Group A vs. H16 C/N = 50 80 mM formic acid	13.71	13.48	0.2323	1.140	4	4	0.2037	1737
+    Group A vs. Group C	13.71	14.33	-0.6182	1.140	4	4	0.5422	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.48	14.33	-0.8505	1.140	4	4	0.7459	1737
+								
+  Q0K2J3								
+    Group A vs. H16 C/N = 50 80 mM formic acid	12.83	14.52	-1.691	1.140	4	4	1.483	1737
+    Group A vs. Group C	12.83	14.00	-1.165	1.140	4	4	1.021	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.52	14.00	0.5265	1.140	4	4	0.4618	1737
+								
+  Q0K2J8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.44	12.13	2.308	1.140	4	4	2.024	1737
+    Group A vs. Group C	14.44	14.29	0.1431	1.140	4	4	0.1255	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	12.13	14.29	-2.164	1.140	4	4	1.898	1737
+								
+  Q0K2M8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	12.82	15.37	-2.554	1.140	4	4	2.240	1737
+    Group A vs. Group C	12.82	14.22	-1.402	1.140	4	4	1.230	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.37	14.22	1.152	1.140	4	4	1.010	1737
+								
+  Q0K2N5								
+    Group A vs. H16 C/N = 50 80 mM formic acid	13.07	12.56	0.5071	1.140	4	4	0.4447	1737
+    Group A vs. Group C	13.07	13.39	-0.3186	1.140	4	4	0.2795	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	12.56	13.39	-0.8257	1.140	4	4	0.7242	1737
+								
+  Q0K2V0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	13.75	14.86	-1.119	1.140	4	4	0.9817	1737
+    Group A vs. Group C	13.75	16.42	-2.676	1.140	4	4	2.347	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.86	16.42	-1.557	1.140	4	4	1.366	1737
+								
+  Q0K2V4								
+    Group A vs. H16 C/N = 50 80 mM formic acid	13.61	16.06	-2.448	1.140	4	4	2.147	1737
+    Group A vs. Group C	13.61	12.77	0.8402	1.140	4	4	0.7369	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	16.06	12.77	3.289	1.140	4	4	2.884	1737
+								
+  Q0K393								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.56	14.45	1.110	1.140	4	4	0.9737	1737
+    Group A vs. Group C	15.56	12.27	3.290	1.140	4	4	2.886	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.45	12.27	2.180	1.140	4	4	1.912	1737
+								
+  Q0K3B6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	17.68	12.60	5.084	1.140	4	4	4.459	1737
+    Group A vs. Group C	17.68	12.84	4.844	1.140	4	4	4.248	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	12.60	12.84	-0.2406	1.140	4	4	0.2110	1737
+								
+  Q0K3E1								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.95	14.42	1.523	1.140	4	4	1.336	1737
+    Group A vs. Group C	15.95	15.74	0.2075	1.140	4	4	0.1820	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.42	15.74	-1.315	1.140	4	4	1.154	1737
+								
+  Q0K3E7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	16.43	12.22	4.207	1.140	4	4	3.690	1737
+    Group A vs. Group C	16.43	12.27	4.156	1.140	4	4	3.645	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	12.22	12.27	-0.05123	1.140	4	4	0.04493	1737
+								
+  Q0K3T1								
+    Group A vs. H16 C/N = 50 80 mM formic acid	13.68	14.81	-1.122	1.140	4	4	0.9839	1737
+    Group A vs. Group C	13.68	14.98	-1.297	1.140	4	4	1.137	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.81	14.98	-0.1751	1.140	4	4	0.1536	1737
+								
+  Q0K3W2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	18.37	17.78	0.5910	1.140	4	4	0.5184	1737
+    Group A vs. Group C	18.37	18.29	0.08666	1.140	4	4	0.07600	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	17.78	18.29	-0.5044	1.140	4	4	0.4424	1737
+								
+  Q0K3Y4								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.67	12.69	1.982	1.140	4	4	1.739	1737
+    Group A vs. Group C	14.67	14.89	-0.2265	1.140	4	4	0.1986	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	12.69	14.89	-2.209	1.140	4	4	1.937	1737
+								
+  Q0K4E6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.02	16.40	-2.379	1.140	4	4	2.087	1737
+    Group A vs. Group C	14.02	16.40	-2.382	1.140	4	4	2.089	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	16.40	16.40	-0.002382	1.140	4	4	0.002089	1737
+								
+  Q0K4G1								
+    Group A vs. H16 C/N = 50 80 mM formic acid	13.15	15.14	-1.992	1.140	4	4	1.747	1737
+    Group A vs. Group C	13.15	14.46	-1.306	1.140	4	4	1.146	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.14	14.46	0.6859	1.140	4	4	0.6016	1737
+								
+  Q0K4K3								
+    Group A vs. H16 C/N = 50 80 mM formic acid	12.91	15.29	-2.375	1.140	4	4	2.083	1737
+    Group A vs. Group C	12.91	14.00	-1.088	1.140	4	4	0.9546	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.29	14.00	1.287	1.140	4	4	1.129	1737
+								
+  Q0K4K6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.21	13.91	1.299	1.140	4	4	1.139	1737
+    Group A vs. Group C	15.21	16.29	-1.081	1.140	4	4	0.9477	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.91	16.29	-2.380	1.140	4	4	2.087	1737
+								
+  Q0K4N0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.83	17.32	-2.491	1.140	4	4	2.185	1737
+    Group A vs. Group C	14.83	17.65	-2.817	1.140	4	4	2.471	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	17.32	17.65	-0.3266	1.140	4	4	0.2865	1737
+								
+  Q0K4P2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.83	14.47	0.3666	1.140	4	4	0.3215	1737
+    Group A vs. Group C	14.83	15.91	-1.078	1.140	4	4	0.9454	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.47	15.91	-1.445	1.140	4	4	1.267	1737
+								
+  Q0K5F5								
+    Group A vs. H16 C/N = 50 80 mM formic acid	16.24	16.31	-0.07001	1.140	4	4	0.06141	1737
+    Group A vs. Group C	16.24	14.89	1.352	1.140	4	4	1.186	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	16.31	14.89	1.422	1.140	4	4	1.248	1737
+								
+  Q0K666								
+    Group A vs. H16 C/N = 50 80 mM formic acid	16.07	13.18	2.888	1.140	4	4	2.533	1737
+    Group A vs. Group C	16.07	15.08	0.9917	1.140	4	4	0.8698	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.18	15.08	-1.896	1.140	4	4	1.663	1737
+								
+  Q0K698								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.04	12.63	2.412	1.140	4	4	2.116	1737
+    Group A vs. Group C	15.04	13.53	1.504	1.140	4	4	1.319	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	12.63	13.53	-0.9084	1.140	4	4	0.7967	1737
+								
+  Q0K6H7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.40	14.12	1.282	1.140	4	4	1.125	1737
+    Group A vs. Group C	15.40	13.45	1.946	1.140	4	4	1.707	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.12	13.45	0.6639	1.140	4	4	0.5823	1737
+								
+  Q0K6H8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.44	16.86	-2.417	1.140	4	4	2.120	1737
+    Group A vs. Group C	14.44	16.91	-2.471	1.140	4	4	2.167	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	16.86	16.91	-0.05362	1.140	4	4	0.04703	1737
+								
+  Q0K759								
+    Group A vs. H16 C/N = 50 80 mM formic acid	13.95	15.45	-1.505	1.140	4	4	1.320	1737
+    Group A vs. Group C	13.95	14.14	-0.1890	1.140	4	4	0.1658	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.45	14.14	1.316	1.140	4	4	1.154	1737
+								
+  Q0K7F7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.78	13.93	1.857	1.140	4	4	1.628	1737
+    Group A vs. Group C	15.78	14.49	1.296	1.140	4	4	1.136	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.93	14.49	-0.5610	1.140	4	4	0.4920	1737
+								
+  Q0K7G3								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.29	13.81	0.4844	1.140	4	4	0.4248	1737
+    Group A vs. Group C	14.29	14.23	0.06507	1.140	4	4	0.05707	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.81	14.23	-0.4193	1.140	4	4	0.3677	1737
+								
+  Q0K7J6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	16.76	14.64	2.119	1.140	4	4	1.858	1737
+    Group A vs. Group C	16.76	16.44	0.3173	1.140	4	4	0.2783	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.64	16.44	-1.802	1.140	4	4	1.580	1737
+								
+  Q0K7J8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	17.49	14.66	2.829	1.140	4	4	2.481	1737
+    Group A vs. Group C	17.49	16.13	1.365	1.140	4	4	1.197	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.66	16.13	-1.465	1.140	4	4	1.285	1737
+								
+  Q0K7J9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	16.91	16.04	0.8700	1.140	4	4	0.7630	1737
+    Group A vs. Group C	16.91	13.93	2.981	1.140	4	4	2.615	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	16.04	13.93	2.111	1.140	4	4	1.852	1737
+								
+  Q0K7W1								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.53	15.06	-0.5348	1.140	4	4	0.4690	1737
+    Group A vs. Group C	14.53	14.77	-0.2403	1.140	4	4	0.2107	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.06	14.77	0.2945	1.140	4	4	0.2583	1737
+								
+  Q0K8E6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	12.63	14.80	-2.168	1.140	4	4	1.901	1737
+    Group A vs. Group C	12.63	14.29	-1.657	1.140	4	4	1.454	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.80	14.29	0.5103	1.140	4	4	0.4476	1737
+								
+  Q0K8P7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	17.61	12.96	4.653	1.140	4	4	4.081	1737
+    Group A vs. Group C	17.61	11.57	6.039	1.140	4	4	5.296	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	12.96	11.57	1.386	1.140	4	4	1.215	1737
+								
+  Q0K924								
+    Group A vs. H16 C/N = 50 80 mM formic acid	13.09	16.10	-3.003	1.140	4	4	2.634	1737
+    Group A vs. Group C	13.09	14.65	-1.559	1.140	4	4	1.368	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	16.10	14.65	1.444	1.140	4	4	1.266	1737
+								
+  Q0K925								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.71	14.21	0.4993	1.140	4	4	0.4379	1737
+    Group A vs. Group C	14.71	13.48	1.227	1.140	4	4	1.076	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.21	13.48	0.7280	1.140	4	4	0.6385	1737
+								
+  Q0K9N8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	11.71	13.80	-2.093	1.140	4	4	1.836	1737
+    Group A vs. Group C	11.71	14.14	-2.428	1.140	4	4	2.130	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.80	14.14	-0.3351	1.140	4	4	0.2939	1737
+								
+  Q0KA08								
+    Group A vs. H16 C/N = 50 80 mM formic acid	13.85	14.78	-0.9286	1.140	4	4	0.8145	1737
+    Group A vs. Group C	13.85	13.26	0.5915	1.140	4	4	0.5188	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.78	13.26	1.520	1.140	4	4	1.333	1737
+								
+  Q0KAD2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	16.30	16.76	-0.4506	1.140	4	4	0.3952	1737
+    Group A vs. Group C	16.30	17.24	-0.9356	1.140	4	4	0.8206	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	16.76	17.24	-0.4850	1.140	4	4	0.4254	1737
+								
+  Q0KAH7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.47	15.68	-1.215	1.140	4	4	1.066	1737
+    Group A vs. Group C	14.47	14.18	0.2889	1.140	4	4	0.2534	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.68	14.18	1.504	1.140	4	4	1.319	1737
+								
+  Q0KAZ6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	16.50	15.30	1.198	1.140	4	4	1.051	1737
+    Group A vs. Group C	16.50	13.68	2.821	1.140	4	4	2.475	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.30	13.68	1.623	1.140	4	4	1.424	1737
+								
+  Q0KBL4								
+    Group A vs. H16 C/N = 50 80 mM formic acid	12.61	15.62	-3.006	1.140	4	4	2.637	1737
+    Group A vs. Group C	12.61	15.19	-2.579	1.140	4	4	2.262	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.62	15.19	0.4275	1.140	4	4	0.3749	1737
+								
+  Q0KBL5								
+    Group A vs. H16 C/N = 50 80 mM formic acid	12.31	16.80	-4.495	1.140	4	4	3.943	1737
+    Group A vs. Group C	12.31	16.69	-4.386	1.140	4	4	3.847	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	16.80	16.69	0.1092	1.140	4	4	0.09581	1737
+								
+  Q0KBL6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	13.12	17.26	-4.135	1.140	4	4	3.626	1737
+    Group A vs. Group C	13.12	17.84	-4.724	1.140	4	4	4.143	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	17.26	17.84	-0.5893	1.140	4	4	0.5169	1737
+								
+  Q0KBN0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.54	15.01	-0.4720	1.140	4	4	0.4140	1737
+    Group A vs. Group C	14.54	15.63	-1.088	1.140	4	4	0.9538	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.01	15.63	-0.6156	1.140	4	4	0.5399	1737
+								
+  Q0KCD2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.16	12.48	1.680	1.140	4	4	1.474	1737
+    Group A vs. Group C	14.16	14.37	-0.2060	1.140	4	4	0.1807	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	12.48	14.37	-1.886	1.140	4	4	1.654	1737
+								
+  Q0KCQ8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.05	15.14	-0.08607	1.140	4	4	0.07548	1737
+    Group A vs. Group C	15.05	14.99	0.06156	1.140	4	4	0.05399	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.14	14.99	0.1476	1.140	4	4	0.1295	1737
+								
+  Q0KCR4								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.35	14.90	-0.5441	1.140	4	4	0.4772	1737
+    Group A vs. Group C	14.35	15.09	-0.7371	1.140	4	4	0.6465	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.90	15.09	-0.1931	1.140	4	4	0.1694	1737
+								
+  Q0KD39								
+    Group A vs. H16 C/N = 50 80 mM formic acid	12.48	15.43	-2.944	1.140	4	4	2.582	1737
+    Group A vs. Group C	12.48	14.54	-2.058	1.140	4	4	1.805	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.43	14.54	0.8857	1.140	4	4	0.7768	1737
+								
+  Q0KDK3								
+    Group A vs. H16 C/N = 50 80 mM formic acid	12.77	13.01	-0.2394	1.140	4	4	0.2100	1737
+    Group A vs. Group C	12.77	14.99	-2.219	1.140	4	4	1.946	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.01	14.99	-1.979	1.140	4	4	1.736	1737
+								
+  Q0KE24								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.22	14.66	0.5652	1.140	4	4	0.4957	1737
+    Group A vs. Group C	15.22	12.00	3.226	1.140	4	4	2.830	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.66	12.00	2.661	1.140	4	4	2.334	1737
+								
+  Q0KE90								
+    Group A vs. H16 C/N = 50 80 mM formic acid	12.40	12.97	-0.5651	1.140	4	4	0.4957	1737
+    Group A vs. Group C	12.40	15.05	-2.646	1.140	4	4	2.320	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	12.97	15.05	-2.080	1.140	4	4	1.825	1737
+								
+  Q0KEJ8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.79	15.38	-0.5962	1.140	4	4	0.5229	1737
+    Group A vs. Group C	14.79	14.56	0.2282	1.140	4	4	0.2001	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.38	14.56	0.8244	1.140	4	4	0.7230	1737
+								
+  Q0KET0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.48	13.14	2.345	1.140	4	4	2.057	1737
+    Group A vs. Group C	15.48	15.11	0.3682	1.140	4	4	0.3229	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.14	15.11	-1.977	1.140	4	4	1.734	1737
+								
+  Q0KEV1;Q0K2T9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	13.77	13.53	0.2327	1.140	4	4	0.2041	1737
+    Group A vs. Group C	13.77	16.43	-2.666	1.140	4	4	2.339	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.53	16.43	-2.899	1.140	4	4	2.543	1737
+								
+  Q0KEW2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	12.68	13.55	-0.8706	1.140	4	4	0.7636	1737
+    Group A vs. Group C	12.68	13.27	-0.5902	1.140	4	4	0.5177	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.55	13.27	0.2804	1.140	4	4	0.2459	1737
+								
+  Q0KF81								
+    Group A vs. H16 C/N = 50 80 mM formic acid	18.55	16.41	2.133	1.140	4	4	1.871	1737
+    Group A vs. Group C	18.55	13.73	4.818	1.140	4	4	4.226	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	16.41	13.73	2.685	1.140	4	4	2.355	1737
+								
+  Q0KFD7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.77	15.66	-0.8834	1.140	4	4	0.7748	1737
+    Group A vs. Group C	14.77	15.44	-0.6699	1.140	4	4	0.5876	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.66	15.44	0.2135	1.140	4	4	0.1872	1737
+								
+  Q0KFI6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	16.74	15.52	1.216	1.140	4	4	1.066	1737
+    Group A vs. Group C	16.74	14.96	1.776	1.140	4	4	1.558	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.52	14.96	0.5603	1.140	4	4	0.4915	1737
+								
+  Q0KFJ8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.70	14.05	0.6480	1.140	4	4	0.5683	1737
+    Group A vs. Group C	14.70	14.61	0.08850	1.140	4	4	0.07762	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.05	14.61	-0.5595	1.140	4	4	0.4907	1737
+								
+  Q59101								
+    Group A vs. H16 C/N = 50 80 mM formic acid	24.55	23.20	1.346	1.140	4	4	1.180	1737
+    Group A vs. Group C	24.55	23.70	0.8496	1.140	4	4	0.7451	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	23.20	23.70	-0.4961	1.140	4	4	0.4351	1737
+								
+  Q59105								
+    Group A vs. H16 C/N = 50 80 mM formic acid	12.10	13.22	-1.125	1.140	4	4	0.9871	1737
+    Group A vs. Group C	12.10	14.03	-1.934	1.140	4	4	1.696	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.22	14.03	-0.8088	1.140	4	4	0.7093	1737
+								
+  Q79IN9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	25.11	24.26	0.8513	1.140	4	4	0.7466	1737
+    Group A vs. Group C	25.11	23.83	1.275	1.140	4	4	1.118	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	24.26	23.83	0.4233	1.140	4	4	0.3713	1737
+								
+  Q79IP0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	21.16	19.92	1.248	1.140	4	4	1.095	1737
+    Group A vs. Group C	21.16	19.49	1.669	1.140	4	4	1.464	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	19.92	19.49	0.4206	1.140	4	4	0.3689	1737
+								
+  Q79IP6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	21.23	20.46	0.7706	1.140	4	4	0.6758	1737
+    Group A vs. Group C	21.23	20.85	0.3854	1.140	4	4	0.3380	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	20.46	20.85	-0.3852	1.140	4	4	0.3379	1737
+								
+  Q79IP7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	19.49	18.54	0.9544	1.140	4	4	0.8371	1737
+    Group A vs. Group C	19.49	18.55	0.9443	1.140	4	4	0.8282	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	18.54	18.55	-0.01008	1.140	4	4	0.008839	1737
+								
+  Q79IP8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	17.47	15.58	1.893	1.140	4	4	1.661	1737
+    Group A vs. Group C	17.47	15.92	1.551	1.140	4	4	1.361	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.58	15.92	-0.3419	1.140	4	4	0.2999	1737
+								
+  Q7WSB2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	18.03	14.56	3.467	1.140	4	4	3.041	1737
+    Group A vs. Group C	18.03	14.84	3.191	1.140	4	4	2.798	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.56	14.84	-0.2767	1.140	4	4	0.2427	1737
+								
+  Q7WWT7;Q0KAA4;Q7WWU8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	17.73	17.12	0.6083	1.140	4	4	0.5335	1737
+    Group A vs. Group C	17.73	18.06	-0.3299	1.140	4	4	0.2893	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	17.12	18.06	-0.9382	1.140	4	4	0.8229	1737
+								
+  Q7WWT9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	16.31	15.22	1.086	1.140	4	4	0.9525	1737
+    Group A vs. Group C	16.31	15.37	0.9323	1.140	4	4	0.8177	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.22	15.37	-0.1537	1.140	4	4	0.1348	1737
+								
+  Q7WWU0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	16.12	12.30	3.827	1.140	4	4	3.356	1737
+    Group A vs. Group C	16.12	12.64	3.485	1.140	4	4	3.056	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	12.30	12.64	-0.3417	1.140	4	4	0.2997	1737
+								
+  Q7WWU7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.66	12.91	1.747	1.140	4	4	1.532	1737
+    Group A vs. Group C	14.66	14.47	0.1867	1.140	4	4	0.1638	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	12.91	14.47	-1.560	1.140	4	4	1.368	1737
+								
+  Q7WWV0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.93	13.84	2.094	1.140	4	4	1.836	1737
+    Group A vs. Group C	15.93	13.38	2.555	1.140	4	4	2.241	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.84	13.38	0.4616	1.140	4	4	0.4049	1737
+								
+  Q7WWW3								
+    Group A vs. H16 C/N = 50 80 mM formic acid	16.42	12.98	3.432	1.140	4	4	3.010	1737
+    Group A vs. Group C	16.42	12.17	4.250	1.140	4	4	3.727	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	12.98	12.17	0.8176	1.140	4	4	0.7171	1737
+								
+  Q7WWW7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	19.51	19.39	0.1230	1.140	4	4	0.1079	1737
+    Group A vs. Group C	19.51	19.72	-0.2083	1.140	4	4	0.1827	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	19.39	19.72	-0.3313	1.140	4	4	0.2905	1737
+								
+  Q7WWW8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	13.89	12.43	1.464	1.140	4	4	1.284	1737
+    Group A vs. Group C	13.89	14.70	-0.8112	1.140	4	4	0.7115	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	12.43	14.70	-2.275	1.140	4	4	1.995	1737
+								
+  Q7WWX2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.65	18.51	-3.854	1.140	4	4	3.380	1737
+    Group A vs. Group C	14.65	14.96	-0.3123	1.140	4	4	0.2739	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	18.51	14.96	3.542	1.140	4	4	3.106	1737
+								
+  Q7WWX9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	13.22	14.99	-1.774	1.140	4	4	1.556	1737
+    Group A vs. Group C	13.22	12.54	0.6755	1.140	4	4	0.5924	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.99	12.54	2.450	1.140	4	4	2.149	1737
+								
+  Q7WWY4								
+    Group A vs. H16 C/N = 50 80 mM formic acid	11.99	14.36	-2.366	1.140	4	4	2.075	1737
+    Group A vs. Group C	11.99	11.34	0.6547	1.140	4	4	0.5742	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.36	11.34	3.021	1.140	4	4	2.649	1737
+								
+  Q7WWZ6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	11.47	15.19	-3.711	1.140	4	4	3.255	1737
+    Group A vs. Group C	11.47	12.40	-0.9269	1.140	4	4	0.8130	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.19	12.40	2.784	1.140	4	4	2.442	1737
+								
+  Q7WWZ7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.17	15.56	-1.396	1.140	4	4	1.224	1737
+    Group A vs. Group C	14.17	14.88	-0.7095	1.140	4	4	0.6222	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.56	14.88	0.6862	1.140	4	4	0.6019	1737
+								
+  Q7WX00								
+    Group A vs. H16 C/N = 50 80 mM formic acid	19.24	19.46	-0.2197	1.140	4	4	0.1927	1737
+    Group A vs. Group C	19.24	19.97	-0.7271	1.140	4	4	0.6377	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	19.46	19.97	-0.5073	1.140	4	4	0.4449	1737
+								
+  Q7WX12								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.52	16.51	-1.990	1.140	4	4	1.746	1737
+    Group A vs. Group C	14.52	15.20	-0.6784	1.140	4	4	0.5950	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	16.51	15.20	1.312	1.140	4	4	1.151	1737
+								
+  Q7WX14								
+    Group A vs. H16 C/N = 50 80 mM formic acid	18.26	19.46	-1.199	1.140	4	4	1.051	1737
+    Group A vs. Group C	18.26	18.62	-0.3517	1.140	4	4	0.3085	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	19.46	18.62	0.8471	1.140	4	4	0.7430	1737
+								
+  Q7WX43								
+    Group A vs. H16 C/N = 50 80 mM formic acid	12.83	15.45	-2.611	1.140	4	4	2.290	1737
+    Group A vs. Group C	12.83	12.95	-0.1137	1.140	4	4	0.09969	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.45	12.95	2.497	1.140	4	4	2.190	1737
+								
+  Q7WX46								
+    Group A vs. H16 C/N = 50 80 mM formic acid	11.77	15.67	-3.902	1.140	4	4	3.422	1737
+    Group A vs. Group C	11.77	12.61	-0.8415	1.140	4	4	0.7380	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.67	12.61	3.060	1.140	4	4	2.684	1737
+								
+  Q7WX55								
+    Group A vs. H16 C/N = 50 80 mM formic acid	22.37	21.71	0.6643	1.140	4	4	0.5827	1737
+    Group A vs. Group C	22.37	22.42	-0.05157	1.140	4	4	0.04523	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	21.71	22.42	-0.7159	1.140	4	4	0.6279	1737
+								
+  Q7WXD2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	17.11	15.76	1.344	1.140	4	4	1.179	1737
+    Group A vs. Group C	17.11	17.81	-0.6970	1.140	4	4	0.6113	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.76	17.81	-2.041	1.140	4	4	1.790	1737
+								
+  Q7WXE2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.37	14.55	0.8193	1.140	4	4	0.7186	1737
+    Group A vs. Group C	15.37	14.21	1.157	1.140	4	4	1.015	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.55	14.21	0.3375	1.140	4	4	0.2960	1737
+								
+  Q7WXE7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.98	16.10	-0.1204	1.140	4	4	0.1056	1737
+    Group A vs. Group C	15.98	14.99	0.9919	1.140	4	4	0.8700	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	16.10	14.99	1.112	1.140	4	4	0.9756	1737
+								
+  Q7WXF0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	17.84	16.73	1.112	1.140	4	4	0.9753	1737
+    Group A vs. Group C	17.84	17.58	0.2653	1.140	4	4	0.2327	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	16.73	17.58	-0.8467	1.140	4	4	0.7426	1737
+								
+  Q7WXF4								
+    Group A vs. H16 C/N = 50 80 mM formic acid	22.32	21.92	0.3947	1.140	4	4	0.3461	1737
+    Group A vs. Group C	22.32	22.16	0.1556	1.140	4	4	0.1364	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	21.92	22.16	-0.2391	1.140	4	4	0.2097	1737
+								
+  Q7WXF5								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.55	12.79	2.763	1.140	4	4	2.423	1737
+    Group A vs. Group C	15.55	11.73	3.828	1.140	4	4	3.357	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	12.79	11.73	1.065	1.140	4	4	0.9337	1737
+								
+  Q7WXF9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.46	16.40	-1.941	1.140	4	4	1.702	1737
+    Group A vs. Group C	14.46	16.49	-2.035	1.140	4	4	1.785	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	16.40	16.49	-0.09421	1.140	4	4	0.08263	1737
+								
+  Q7WXG2								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.36	14.99	0.3733	1.140	4	4	0.3274	1737
+    Group A vs. Group C	15.36	14.66	0.7066	1.140	4	4	0.6197	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.99	14.66	0.3333	1.140	4	4	0.2923	1737
+								
+  Q7WXG6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	12.36	13.33	-0.9687	1.140	4	4	0.8496	1737
+    Group A vs. Group C	12.36	14.81	-2.449	1.140	4	4	2.148	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	13.33	14.81	-1.480	1.140	4	4	1.298	1737
+								
+  Q7WXG8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	18.84	19.41	-0.5710	1.140	4	4	0.5008	1737
+    Group A vs. Group C	18.84	20.03	-1.191	1.140	4	4	1.044	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	19.41	20.03	-0.6196	1.140	4	4	0.5434	1737
+								
+  Q7WXH0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	15.86	14.48	1.375	1.140	4	4	1.206	1737
+    Group A vs. Group C	15.86	14.87	0.9886	1.140	4	4	0.8670	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.48	14.87	-0.3859	1.140	4	4	0.3385	1737
+								
+  Q7WXI6								
+    Group A vs. H16 C/N = 50 80 mM formic acid	17.72	16.23	1.492	1.140	4	4	1.308	1737
+    Group A vs. Group C	17.72	16.71	1.003	1.140	4	4	0.8795	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	16.23	16.71	-0.4888	1.140	4	4	0.4287	1737
+								
+  Q7WXI7								
+    Group A vs. H16 C/N = 50 80 mM formic acid	17.29	14.61	2.680	1.140	4	4	2.351	1737
+    Group A vs. Group C	17.29	15.75	1.543	1.140	4	4	1.353	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.61	15.75	-1.137	1.140	4	4	0.9971	1737
+								
+  Q7WXL4								
+    Group A vs. H16 C/N = 50 80 mM formic acid	17.99	17.03	0.9586	1.140	4	4	0.8407	1737
+    Group A vs. Group C	17.99	18.09	-0.1020	1.140	4	4	0.08950	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	17.03	18.09	-1.061	1.140	4	4	0.9302	1737
+								
+  Q7WXL9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.19	14.68	-0.4981	1.140	4	4	0.4369	1737
+    Group A vs. Group C	14.19	14.93	-0.7484	1.140	4	4	0.6564	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	14.68	14.93	-0.2503	1.140	4	4	0.2195	1737
+								
+  Q7WXM8;Q7WXP0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	20.86	20.00	0.8668	1.140	4	4	0.7602	1737
+    Group A vs. Group C	20.86	19.69	1.171	1.140	4	4	1.027	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	20.00	19.69	0.3045	1.140	4	4	0.2670	1737
+								
+  Q7WXM9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	14.68	15.61	-0.9276	1.140	4	4	0.8136	1737
+    Group A vs. Group C	14.68	14.56	0.1275	1.140	4	4	0.1118	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	15.61	14.56	1.055	1.140	4	4	0.9254	1737
+								
+  Q7WXT8								
+    Group A vs. H16 C/N = 50 80 mM formic acid	18.83	19.60	-0.7698	1.140	4	4	0.6752	1737
+    Group A vs. Group C	18.83	20.00	-1.169	1.140	4	4	1.026	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	19.60	20.00	-0.3994	1.140	4	4	0.3503	1737
+								
+  Q7WXT9								
+    Group A vs. H16 C/N = 50 80 mM formic acid	20.97	20.26	0.7110	1.140	4	4	0.6236	1737
+    Group A vs. Group C	20.97	20.49	0.4758	1.140	4	4	0.4173	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	20.26	20.49	-0.2351	1.140	4	4	0.2062	1737
+								
+  Q7WXU0								
+    Group A vs. H16 C/N = 50 80 mM formic acid	18.66	17.53	1.132	1.140	4	4	0.9930	1737
+    Group A vs. Group C	18.66	18.52	0.1395	1.140	4	4	0.1224	1737
+    H16 C/N = 50 80 mM formic acid vs. Group C	17.53	18.52	-0.9927	1.140	4	4	0.8706	1737
