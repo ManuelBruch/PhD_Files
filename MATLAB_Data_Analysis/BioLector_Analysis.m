@@ -1,9 +1,7 @@
-%% BioLector Analysis Version 3
-% newer version for analysing rfp assays, based on pure triplicate runs
-% this one also calculates growth rates
+%% BioLector Analysis Version
 % Author: Manuel Bruch, PhD student
 % Creation:     29.04.2021
-% Last change:  10.07.2023
+% Last change:  10.06.2024
 
 %% Tidy up
 clear all
