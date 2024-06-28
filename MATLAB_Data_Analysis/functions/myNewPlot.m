@@ -56,7 +56,8 @@ function myNewPlot(x,y,NVArgs)
 %   myColor             -->     sets the colour for the line to be plotted
 %
 %   transpErr           -->     sets errorbars to transparent. set the alpha
-%                               value of the transparency.
+%                               value of the transparency. The lower the number
+%                               the lighter the bar (I think)
 
 %% define input arguments
 arguments
