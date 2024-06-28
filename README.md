@@ -19,3 +19,17 @@ This folder contains general files for data analysis using MATLAB. All files are
   4. [BB_Conti_Analysis_Compare_multiple_runs.m](MATLAB_Data_Analysis/BB_Conti_Analysis_Compare_multiple_runs.m):
        - Compares multiple continuous fermentation profiles from F0 Baby Bionet units.
        - Required the respective data files.
+  5. [BioLector_Analysis.m](MATLAB_Data_Analysis/BioLector_Analysis.m):
+       - Analyses growth curves obtained with a BioLector I device.
+       - Requires data files from the machine as well as a file matching well IDs with sample names.
+       - Will automatically compute mean and standard deviation across replicates.
+       - Converts measured signal into CDW [g/L] values based on conversion factors.
+       - Calculates growth rates for each growth curve.
+       - Plots biomass and growth rates in a tiledlayout plot.
+  6. [HPLC_Analysis_Shimadzu.m](MATLAB_Data_Analysis/HPLC_Analysis_Shimadzu.m):
+       - Analyses HPLC peak tables collected from a SIL-20ACHT HPLC machine (Shimadzu, Kyoto, Japan).
+       - Requires HPLC data files as well as an excel file containing the order of samples that were run.
+       - Will plot standard curves and save curve parameters into a matlab variable that can be loaded later.
+       - Will calculate concentrations of unknown samples based on previously measured and analysed standards.
+  7. [batch_triplicate_w_HPLC.m](MATLAB_Data_Analysis/batch_triplicate_w_HPLC.m):
+       - 
