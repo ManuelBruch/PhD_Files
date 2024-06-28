@@ -63,7 +63,6 @@ This folder contains some general helper functions written to streamline the cod
        - Returns parameters of the linear regression, such as slope, y-intercepts, error estimates and x-value ranges.
        - Used exclusively in this work for the calculation of growth rates.
 <br>
-<br>
 
 ## [Proteomics_Data_Analysis](Proteomics_Data_Analysis)
 This folder contains files associated with the proteomics analysis conducted in this work.
@@ -71,3 +70,31 @@ This folder contains files associated with the proteomics analysis conducted in 
 The file doing in which the initial proteome analysis and data transformation was performed is found in [Perseus_proteomics_analysis.sps](Proteomics_Data_Analysis/Perseus_Analysis/Perseus_proteomics_analysis.sps). A snapshot of the workflow is shown in [Perseus_workflow.png](Proteomics_Data_Analysis/Perseus_Analysis/Perseus_workflow.png).
 ### [PRISM_Analysis](Proteomics_Data_Analysis/PRISM_Analysis)
 This folder contains the [GraphPad PRISM file](Proteomics_Data_Analysis/PRISM_Analysis/20230725statistical_analysis_proteins_in_both_strains_post_imputation.prism), used to conduct statistical analysis of the proteomics data. Additionally, folders with extracted tables for the analysis results for proteins detected [only in _C. necator_ H16](Proteomics_Data_Analysis/PRISM_Analysis/H16_only), [only in _C. necator_ ALE26](Proteomics_Data_Analysis/PRISM_Analysis/ALE26_only) or in [both strains](Proteomics_Data_Analysis/PRISM_Analysis/both) are provided.
+### [Python_code](Proteomics_Data_Analysis/Python_code)
+This folder contains the python code used in analysing and graphing the proteomics results. The purpose of each file will briefly be laid out here. <br>
+Required Python packages: _biopython_, _gurobi_ (with an active license), _Ipython_ when working with Spyder, _matplotlib_, _numpy_, _pandas_, _scipy_, _seaborn_
+  
+  1. [differential_expression_analysis.py](Proteomics_Data_Analysis/Python_code/differential_expression_analysis.py):
+       - Reads in data after exporting them from Perseus.
+       - uses the Protein IDs assigned in the MaxQuant search to search NCBI for associated entries and fetch genome locations of the corresponding genes.
+       - writes these locations (chromosome 1, chromosome 2 or pHG1) into the original dataframe and saves it.
+  2. [proteomics_PCA.py](Proteomics_Data_Analysis/Python_code/proteomics_PCA.py):
+       - Runs a principal component analysis (PCA) on the data extracted from Perseus.
+  3. [format_PRISM_results.py](Proteomics_Data_Analysis/Python_code/format_PRISM_results.py):
+       - Reformats the results from the GraphPad PRISM Sidak analysis into a simpler table and extracts -log(adjusted-p-values) and log(fold changes).
+  4. [build_pool_table_plot_dataframe.py](Proteomics_Data_Analysis/Python_code/build_pool_table_plot_dataframe.py):
+       - Reads in the reformatted PRISM results and based on the Uniprot protein IDs fetches KEGG IDs and pathways associated with each protein based on KEGG and a list manually downloaded from Uniprot.
+       - Creates dataframes for each of the original three tables (detected in: _C. necator_ H16 only, _C. necator_ ALE26 only or both) and one merged dataframe of the three individual ones.
+  5. [group_pathways_in_meta_poolTables.py](Proteomics_Data_Analysis/Python_code/group_pathways_in_meta_poolTables.py):
+       - Defines some overarching pathways based on the KEGG BRITE hierarchy to add to the dataframes created in [build_pool_table_plot_dataframe.py](Proteomics_Data_Analysis/Python_code/build_pool_table_plot_dataframe.py).
+       - Requires the BRITE hierarchy as an additional input (can be downloaded from the KEGG website, strain identifier: reh).
+  6. [proteomics_poolTablePlot_plotting.py](Proteomics_Data_Analysis/Python_code/proteomics_poolTablePlot_plotting.py):
+       - Creates plots displaying the overarching pathway for each protein (y-axis) against it's log(fold change) (x-axis) for the comparison between two growth conditions in a scatter plot.
+       - colour-codes each marker based on the associated adjusted p-value.
+       - plots proteins detected in _C. necator_ H16 only, _C. necator_ ALE26 only or both strains on seperate plots.
+  7. [proteomics_poolTablePlot_plotting_accounting_for_nan.py](Proteomics_Data_Analysis/Python_code/proteomics_poolTablePlot_plotting_accounting_for_nan.py):
+       - creates a similar plot to the one in [proteomics_poolTablePlot_plotting.py](Proteomics_Data_Analysis/Python_code/proteomics_poolTablePlot_plotting.py).
+       - combines all three comparisons by plotting proteins detected in only one strain at arbitrarily large or small fold changes to seperate them from those found in both strains.
+  8. [proteomics_heat_maps_for_pathways.py](Proteomics_Data_Analysis/Python_code/proteomics_heat_maps_for_pathways.py):
+       - Creates heatmaps for the protein expression in each condition after imputation and averaging the expression data.
+       - Creates individual heat maps for each of the overarching pathways determined before.
