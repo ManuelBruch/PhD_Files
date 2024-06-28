@@ -3,7 +3,8 @@ This Repository contains MATLAB and Python code files used in the work accompany
 
 ## A General Remark
 Many of the coding files here contain references to file locations and file names. These are purely left in for demonstration purposes, if these files were to be used by the Reader, they would need to point the scripts to wherever they might have equivalent files in their working environment.
-
+<br>
+<br>
 
 ## [MATLAB_Data_Analysis](MATLAB_Data_Analysis)
 This folder contains general files for data analysis using MATLAB. All files are at least compatible with version R2021a or newer, older versions have not been checked. The purpose of each file will be briefly pointed out here.
@@ -61,9 +62,12 @@ This folder contains some general helper functions written to streamline the cod
        - Sliding Window algorithm to calculate linear regression lines across the given window.
        - Returns parameters of the linear regression, such as slope, y-intercepts, error estimates and x-value ranges.
        - Used exclusively in this work for the calculation of growth rates.
+<br>
+<br>
 
-
-## Proteomics_Data_Analysis
+## [Proteomics_Data_Analysis](Proteomics_Data_Analysis)
 This folder contains files associated with the proteomics analysis conducted in this work.
 ### [Perseus_Analysis](Proteomics_Data_Analysis/Perseus_Analysis)
 The file doing in which the initial proteome analysis and data transformation was performed is found in [Perseus_proteomics_analysis.sps](Proteomics_Data_Analysis/Perseus_Analysis/Perseus_proteomics_analysis.sps). A snapshot of the workflow is shown in [Perseus_workflow.png](Proteomics_Data_Analysis/Perseus_Analysis/Perseus_workflow.png).
+### [PRISM_Analysis](Proteomics_Data_Analysis/PRISM_Analysis)
+This folder contains the [GraphPad PRISM file](Proteomics_Data_Analysis/PRISM_Analysis/20230725statistical_analysis_proteins_in_both_strains_post_imputation.prism), used to conduct statistical analysis of the proteomics data. Additionally, folders with extracted tables for the analysis results for proteins detected [only in _C. necator_ H16](Proteomics_Data_Analysis/PRISM_Analysis/H16_only), [only in _C. necator_ ALE26](Proteomics_Data_Analysis/PRISM_Analysis/ALE26_only) or in [both strains](Proteomics_Data_Analysis/PRISM_Analysis/both) are provided.
