@@ -98,3 +98,7 @@ Required Python packages: _biopython_, _gurobi_ (with an active license), _Ipyth
   8. [proteomics_heat_maps_for_pathways.py](Proteomics_Data_Analysis/Python_code/proteomics_heat_maps_for_pathways.py):
        - Creates heatmaps for the protein expression in each condition after imputation and averaging the expression data.
        - Creates individual heat maps for each of the overarching pathways determined before.
+  9. [convert_proteomics_to_mmol_per_gCDW.py](Proteomics_Data_Analysis/Python_code/convert_proteomics_to_mmol_per_gCDW.py):
+       - converts imputed LFQ data into protein abundancies normalised by the cell dry weight concentration in each original sample
+       - uses hard-coded sample quantities like volume and CDW
+       - calculates mean and standard deviation for each condition and saves the resulting dataframe
