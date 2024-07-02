@@ -107,7 +107,13 @@ Required Python packages: _biopython_, _gurobi_ (with an active license), _Ipyth
        - Plots bar charts for each reaction with all involved protein abundancies (mean and standard deviation) for each tested condition.
 ### [Additional_Figures](Proteomics_Data_Analysis/Additional_Figures)
 This folder contains additional figures to the thesis that were either too many or too large to fit them in the printed document.
-  - [C_necator_protein_expression_central_carbon_metabolism.png](Proteomics_Data_Analysis/Additional_Figures/C_necator_protein_expression_central_carbon_metabolism.png):
-      - Shows all proteins detected in the proteomics analysis in conjunction with the reaction they are associated with.
-      - Reactions having no associated proteins detected are only represented by their reaction ID.
-      - This figure is referenced in the thesis in chapter 3, section 3.4.2.
+  - [reaction_resolved_protein_expression](Proteomics_Data_Analysis/Additional_Figures/reaction_resolved_protein_expression):
+      - Contains Figures showing protein abundancies associated with the reactions of the central carbon metabolism in _C. necator_
+      - [C_necator_protein_expression_central_carbon_metabolism.png](Proteomics_Data_Analysis/Additional_Figures/reaction_resolved_protein_expression/C_necator_protein_expression_central_carbon_metabolism.png):
+        - Shows all proteins detected in the proteomics analysis in conjunction with the reaction they are associated with.
+        - Reactions having no associated proteins detected are only represented by their reaction ID.
+        - This figure is referenced in the thesis in chapter 3, section 3.4.2.
+      - [plots](Proteomics_Data_Analysis/Additional_Figures/reaction_resolved_protein_expression/plots):
+        - contains the individual plots used in [C_necator_protein_expression_central_carbon_metabolism.png](Proteomics_Data_Analysis/Additional_Figures/reaction_resolved_protein_expression/C_necator_protein_expression_central_carbon_metabolism.png).
+  - [heatmaps](Proteomics_Data_Analysis/Additional_Figures/heatmaps):
+      - Contains heatmaps depicting the average protein expression in each condition for each protein in each meta-pathway in _C. necator_ in heatmaps.
