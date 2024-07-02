@@ -76,8 +76,8 @@ Required Python packages: _biopython_, _gurobi_ (with an active license), _Ipyth
   
   1. [differential_expression_analysis.py](Proteomics_Data_Analysis/Python_code/differential_expression_analysis.py):
        - Reads in data after exporting them from Perseus.
-       - uses the Protein IDs assigned in the MaxQuant search to search NCBI for associated entries and fetch genome locations of the corresponding genes.
-       - writes these locations (chromosome 1, chromosome 2 or pHG1) into the original dataframe and saves it.
+       - Uses the Protein IDs assigned in the MaxQuant search to search NCBI for associated entries and fetch genome locations of the corresponding genes.
+       - Writes these locations (chromosome 1, chromosome 2 or pHG1) into the original dataframe and saves it.
   2. [proteomics_PCA.py](Proteomics_Data_Analysis/Python_code/proteomics_PCA.py):
        - Runs a principal component analysis (PCA) on the data extracted from Perseus.
   3. [format_PRISM_results.py](Proteomics_Data_Analysis/Python_code/format_PRISM_results.py):
@@ -90,15 +90,24 @@ Required Python packages: _biopython_, _gurobi_ (with an active license), _Ipyth
        - Requires the BRITE hierarchy as an additional input (can be downloaded from the KEGG website, strain identifier: reh).
   6. [proteomics_poolTablePlot_plotting.py](Proteomics_Data_Analysis/Python_code/proteomics_poolTablePlot_plotting.py):
        - Creates plots displaying the overarching pathway for each protein (y-axis) against it's log(fold change) (x-axis) for the comparison between two growth conditions in a scatter plot.
-       - colour-codes each marker based on the associated adjusted p-value.
-       - plots proteins detected in _C. necator_ H16 only, _C. necator_ ALE26 only or both strains on seperate plots.
+       - Colour-codes each marker based on the associated adjusted p-value.
+       - Plots proteins detected in _C. necator_ H16 only, _C. necator_ ALE26 only or both strains on seperate plots.
   7. [proteomics_poolTablePlot_plotting_accounting_for_nan.py](Proteomics_Data_Analysis/Python_code/proteomics_poolTablePlot_plotting_accounting_for_nan.py):
-       - creates a similar plot to the one in [proteomics_poolTablePlot_plotting.py](Proteomics_Data_Analysis/Python_code/proteomics_poolTablePlot_plotting.py).
-       - combines all three comparisons by plotting proteins detected in only one strain at arbitrarily large or small fold changes to seperate them from those found in both strains.
+       - Creates a similar plot to the one in [proteomics_poolTablePlot_plotting.py](Proteomics_Data_Analysis/Python_code/proteomics_poolTablePlot_plotting.py).
+       - Combines all three comparisons by plotting proteins detected in only one strain at arbitrarily large or small fold changes to seperate them from those found in both strains.
   8. [proteomics_heat_maps_for_pathways.py](Proteomics_Data_Analysis/Python_code/proteomics_heat_maps_for_pathways.py):
        - Creates heatmaps for the protein expression in each condition after imputation and averaging the expression data.
        - Creates individual heat maps for each of the overarching pathways determined before.
   9. [convert_proteomics_to_mmol_per_gCDW.py](Proteomics_Data_Analysis/Python_code/convert_proteomics_to_mmol_per_gCDW.py):
-       - converts imputed LFQ data into protein abundancies normalised by the cell dry weight concentration in each original sample
-       - uses hard-coded sample quantities like volume and CDW
-       - calculates mean and standard deviation for each condition and saves the resulting dataframe
+       - Converts imputed LFQ data into protein abundancies normalised by the cell dry weight concentration in each original sample.
+       - Uses hard-coded sample quantities like volume and CDW.
+       - Calculates mean and standard deviation for each condition and saves the resulting dataframe.
+  10. [proteome_quantity_per_reaction_in_C_necator_central_carbon_metabolism.py](Proteomics_Data_Analysis/Python_code/proteome_quantity_per_reaction_in_C_necator_central_carbon_metabolism.py):
+       - Uses gene-reaction relations from the [R-Notebook around the Cupriavidus proteome](https://github.com/m-jahn/R-notebook-ralstonia-proteome/blob/main/data/input/model_reactions.csv) to match protein abundancies with their respective reactions.
+       - Plots bar charts for each reaction with all involved protein abundancies (mean and standard deviation) for each tested condition.
+### [Additional_Figures](Proteomics_Data_Analysis/Additional_Figures)
+This folder contains additional figures to the thesis that were either too many or too large to fit them in the printed document.
+  - [C_necator_protein_expression_central_carbon_metabolism.png](Proteomics_Data_Analysis/Additional_Figures/C_necator_protein_expression_central_carbon_metabolism.png):
+      - Shows all proteins detected in the proteomics analysis in conjunction with the reaction they are associated with.
+      - Reactions having no associated proteins detected are only represented by their reaction ID.
+      - This figure is referenced in the thesis in chapter 3, section 3.4.2.
