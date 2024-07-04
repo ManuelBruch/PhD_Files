@@ -117,3 +117,11 @@ This folder contains additional figures to the thesis that were either too many 
         - contains the individual plots used in [C_necator_protein_expression_central_carbon_metabolism.png](Proteomics_Data_Analysis/Additional_Figures/reaction_resolved_protein_expression/C_necator_protein_expression_central_carbon_metabolism.png).
   - [heatmaps](Proteomics_Data_Analysis/Additional_Figures/heatmaps):
       - Contains heatmaps depicting the average protein expression in each condition for each protein in each meta-pathway in _C. necator_ in heatmaps.
+<br>
+
+## [Genomic_Analysis_Graphics](Genomic_Analysis_Graphics)
+This folder contains additional graphics supplementary to the genomic analyses described in the thesis.
+  - [C_necator_ALE31_Bandage_graph.svg](Genomic_Analysis_Graphics/C_necator_ALE31_Bandage_graph.svg):
+      - Bandage graph created in the Galaxy project to display interactions amongst scaffolds in the assembly from the sample to sequence _C. necator_ ALE31
+  - [C_necator_ALE42_Bandage_graph.svg](Genomic_Analysis_Graphics/C_necator_ALE42_Bandage_graph.svg):
+      - Bandage graph created in the Galaxy project to display interactions amongst scaffolds in the assembly from the sample to sequence _C. necator_ ALE42
