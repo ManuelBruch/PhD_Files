@@ -155,3 +155,15 @@ Required Python packages: _biopython_, _gurobi_ (with an active license), _matpl
 This folder contains the RBA model files created by Michael Jahn.
 ### [simulation](Resource_Balance_Analysis/simulation)
 This folder is the output folder for simulations run on the model. It also contains the [substrate_input.csv](Resource_Balance_Analysis/simulation/substrate_input.csv) file used to hand growth medium parameters to the model.
+### [RBVA](Resource_Balance_Analysis/RBVA)
+This folder contains scripts created to run resource balance variability analysis (RBVA) using the [_RBAtools_](https://rba.inrae.fr/rbatools.html) python module ([Bodeit et al., 2023](https://doi.org/10.1093/bioadv/vbad056)).
+  - [RBVA_MJahn_model.ipynb](Resource_Balance_Analysis/RBVA/RBVA_MJahn_model.ipynb):
+      - Jupyter notebook to conduct RBVA.
+      - Reads the same files as [solve_model_V2.py](Resource_Balance_Analysis/solve_model_V2.py) and allows for manual selection of the condition to test.
+      - Allows for either using the automatically calculated maximum growth rate or for a user-defined input.
+      - Performs FVA on the reactions present in the model and records predicted protein concentrations.
+  - [RBVA_proteomics_comparison.py](Resource_Balance_Analysis/RBVA/RBVA_proteomics_comparison.py):
+      - Similar to [Proteomics_RBA_comparison.py](Resource_Balance_Analysis/Proteomics_RBA_comparison.py) but considers the RBVA results.
+      - Also computes some descriptive statistics of the RBVA data, such as mean, median, min and max concentration for each protein.
+  - [RBVA_data_variability.py](Resource_Balance_Analysis/RBVA/RBVA_data_variability.py):
+      - Plots range for each predicted protein that carries flux in any of the RBVA conditions as well as mean measured protein concentrations for each strain for a given growth condition.
