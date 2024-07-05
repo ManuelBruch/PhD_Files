@@ -146,7 +146,11 @@ Required Python packages: _biopython_, _gurobi_ (with an active license), _matpl
       - The growth medium composition used in the original model by Michael Jahn.
   - [solve_model_V2.py](Resource_Balance_Analysis/solve_model_V2.py):
       - This is a mostly unaltered copy of the [solve_model.py](https://github.com/m-jahn/Bacterial-RBA-models/blob/master/Ralstonia-eutropha-H16/solve_model.py) function by Michael Jahn, with some minor alterations for file paths.
-      - copied the write_proteins() method from the RBApy module into this script as a standalone function to alter the output to a full output, rather than just the proteins that carry a non-zero amount of flux to get a full list of the proteins/cellular machinery in the model.
+      - Copied the write_proteins() method from the RBApy module into this script as a standalone function to alter the output to a full output, rather than just the proteins that carry a non-zero amount of flux to get a full list of the proteins/cellular machinery in the model.
+  - [Proteomics_RBA_comparison.py](Resource_Balance_Analysis/Proteomics_RBA_comparison.py):
+      - Script to compare predicted proteins from RBA analysis and measured data from proteomics.
+      - Plots correlation graphs.
+      - Requires outputs from [solve_model_V2.py](Resource_Balance_Analysis/solve_model_V2.py) and [convert_proteomics_to_mmol_per_gCDW.py](Proteomics_Data_Analysis/Python_code/convert_proteomics_to_mmol_per_gCDW.py), as well as UniProt search results from manually looking up UniProt ID and Gene Names found in the RBA model and a file containing the gene-reaction.relation rules.
 ### [model](Resource_Balance_Analysis/model)
 This folder contains the RBA model files created by Michael Jahn.
 ### [simulation](Resource_Balance_Analysis/simulation)
