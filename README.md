@@ -72,7 +72,7 @@ The file doing in which the initial proteome analysis and data transformation wa
 This folder contains the [GraphPad PRISM file](Proteomics_Data_Analysis/PRISM_Analysis/20230725statistical_analysis_proteins_in_both_strains_post_imputation.prism), used to conduct statistical analysis of the proteomics data. Additionally, folders with extracted tables for the analysis results for proteins detected [only in _C. necator_ H16](Proteomics_Data_Analysis/PRISM_Analysis/H16_only), [only in _C. necator_ ALE26](Proteomics_Data_Analysis/PRISM_Analysis/ALE26_only) or in [both strains](Proteomics_Data_Analysis/PRISM_Analysis/both) are provided.
 ### [Python_code](Proteomics_Data_Analysis/Python_code)
 This folder contains the python code used in analysing and graphing the proteomics results. The purpose of each file will briefly be laid out here. <br>
-Required Python packages: _biopython_, _gurobi_ (with an active license), _Ipython_ when working with Spyder, _matplotlib_, _numpy_, _pandas_, _scipy_, _seaborn_
+Required Python packages: _biopython_, _gurobi_ (with an active license), _matplotlib_, _numpy_, _pandas_, _scipy_, _seaborn_
   
   1. [differential_expression_analysis.py](Proteomics_Data_Analysis/Python_code/differential_expression_analysis.py):
        - Reads in data after exporting them from Perseus.
@@ -135,3 +135,19 @@ This folder contains circos plots created using the Quast tool in Galaxy.
       - Circos plot for the alignment of assembled scaffolds for _C. necator_ ALE26 sequencing reads with the [reference genome](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA531660)
   - [circos_plot_ALE42.png](Genomic_Analysis_Graphics/Circos_plots/circos_plot_ALE42.png):
       - Circos plot for the alignment of assembled scaffolds for _C. necator_ ALE42 sequencing reads with the [reference genome](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA531660)
+<br>
+
+## [Resource_Balance_Analysis](Resource_Balance_Analysis)
+This folder contains files for RBA on _C. necator_. The model used in these simulations is the one forked from [Michael Jahn's repository](https://github.com/m-jahn/Bacterial-RBA-models/tree/master/Ralstonia-eutropha-H16) as part of [Jahn et al., 2021](https://doi.org/10.7554/eLife.69019).
+Required Python packages: _biopython_, _gurobi_ (with an active license), _matplotlib_, _numpy_, _pandas_, _scipy_, _seaborn_, _RBApy_ (requires python 3.7 or older)
+  - [JMMmedium.tsv](Resource_Balance_Analysis/JMMmedium.tsv):
+      - A tab-seperated file containing the concentrations of metabolites in the growth medium.
+  - [original_medium.tsv](Resource_Balance_Analysis/original_medium.tsv):
+      - The growth medium composition used in the original model by Michael Jahn.
+  - [solve_model_V2.py](Resource_Balance_Analysis/solve_model_V2.py):
+      - This is a mostly unaltered copy of the [solve_model.py](https://github.com/m-jahn/Bacterial-RBA-models/blob/master/Ralstonia-eutropha-H16/solve_model.py) function by Michael Jahn, with some minor alterations for file paths.
+      - copied the write_proteins() method from the RBApy module into this script as a standalone function to alter the output to a full output, rather than just the proteins that carry a non-zero amount of flux to get a full list of the proteins/cellular machinery in the model.
+### [model](Resource_Balance_Analysis/model)
+This folder contains the RBA model files created by Michael Jahn.
+### [simulation](Resource_Balance_Analysis/simulation)
+This folder is the output folder for simulations run on the model. It also contains the [substrate_input.csv](Resource_Balance_Analysis/simulation/substrate_input.csv) file used to hand growth medium parameters to the model.
