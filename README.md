@@ -58,7 +58,10 @@ This folder contains some general helper functions written to streamline the cod
        - Newer function for plotting standardisation in various files.
        - Allows for input parameters to be handled as name/value pair arguments and therefore does not require a specific order.
        - Used in newer files.
-  6. [slidingWindow.m](MATLAB_Data_Analysis/functions/slidingWindow.m):
+  6. [PHB_GC_evaluation.m](MATLAB_Data_Analysis/functions/PHB_GC_evaluation.m):
+       - Function to evaulate GC data based on user-provided table.
+       - Uses formula developed in this lab to quantify PHA monomer mass based on the peak areas of a sample peak and an internal standard (methyl benzoate).
+  7. [slidingWindow.m](MATLAB_Data_Analysis/functions/slidingWindow.m):
        - Sliding Window algorithm to calculate linear regression lines across the given window.
        - Returns parameters of the linear regression, such as slope, y-intercepts, error estimates and x-value ranges.
        - Used exclusively in this work for the calculation of growth rates.
