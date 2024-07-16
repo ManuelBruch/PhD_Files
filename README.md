@@ -116,8 +116,9 @@ This folder contains additional figures to the thesis that were either too many 
         - Shows all proteins detected in the proteomics analysis in conjunction with the reaction they are associated with.
         - Reactions having no associated proteins detected are only represented by their reaction ID.
         - This figure is referenced in the thesis in chapter 3, section 3.4.2.
+        - Additionally, a [.svg version](Proteomics_Data_Analysis/Additional_Figures/reaction_resolved_protein_expression/C_necator_protein_expression_central_carbon_metabolism.svg) of the image is provided.
       - [plots](Proteomics_Data_Analysis/Additional_Figures/reaction_resolved_protein_expression/plots):
-        - contains the individual plots used in [C_necator_protein_expression_central_carbon_metabolism.png](Proteomics_Data_Analysis/Additional_Figures/reaction_resolved_protein_expression/C_necator_protein_expression_central_carbon_metabolism.png).
+        - Contains the individual plots used in [C_necator_protein_expression_central_carbon_metabolism.png](Proteomics_Data_Analysis/Additional_Figures/reaction_resolved_protein_expression/C_necator_protein_expression_central_carbon_metabolism.png).
   - [heatmaps](Proteomics_Data_Analysis/Additional_Figures/heatmaps):
       - Contains heatmaps depicting the average protein expression in each condition for each protein in each meta-pathway in _C. necator_ in heatmaps.
 <br>
@@ -127,17 +128,17 @@ This folder contains additional graphics supplementary to the genomic analyses d
 ### [Bandage_graphs](Genomic_Analysis_Graphics/Bandage_graphs)
 This folder contains Bandage graphs created using the Bandage Image tool in Galaxy.
   - [C_necator_ALE31_Bandage_graph.svg](Genomic_Analysis_Graphics/Bandage_graphs/C_necator_ALE31_Bandage_graph.svg):
-      - Bandage graph created in the Galaxy project to display interactions amongst scaffolds in the assembly from the sample to sequence _C. necator_ ALE31
+      - Bandage graph created in the Galaxy project to display interactions amongst scaffolds in the assembly from the sample to sequence _C. necator_ ALE31.
   - [C_necator_ALE42_Bandage_graph.svg](Genomic_Analysis_Graphics/Bandage_graphs/C_necator_ALE42_Bandage_graph.svg):
-      - Bandage graph created in the Galaxy project to display interactions amongst scaffolds in the assembly from the sample to sequence _C. necator_ ALE42
+      - Bandage graph created in the Galaxy project to display interactions amongst scaffolds in the assembly from the sample to sequence _C. necator_ ALE42.
 ### [Circos_plots](Genomic_Analysis_Graphics/Circos_plots)
 This folder contains circos plots created using the Quast tool in Galaxy.
   - [circos_plot_H16.png](Genomic_Analysis_Graphics/Circos_plots/circos_plot_H16.png):
-      - Circos plot for the alignment of assembled scaffolds for _C. necator_ H16 sequencing reads with the [reference genome](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA531660)
+      - Circos plot for the alignment of assembled scaffolds for _C. necator_ H16 sequencing reads with the [reference genome](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA531660).
   - [circos_plot_ALE26.png](Genomic_Analysis_Graphics/Circos_plots/circos_plot_ALE26.png):
-      - Circos plot for the alignment of assembled scaffolds for _C. necator_ ALE26 sequencing reads with the [reference genome](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA531660)
+      - Circos plot for the alignment of assembled scaffolds for _C. necator_ ALE26 sequencing reads with the [reference genome](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA531660).
   - [circos_plot_ALE42.png](Genomic_Analysis_Graphics/Circos_plots/circos_plot_ALE42.png):
-      - Circos plot for the alignment of assembled scaffolds for _C. necator_ ALE42 sequencing reads with the [reference genome](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA531660)
+      - Circos plot for the alignment of assembled scaffolds for _C. necator_ ALE42 sequencing reads with the [reference genome](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA531660).
 <br>
 
 ## [Resource_Balance_Analysis](Resource_Balance_Analysis)
