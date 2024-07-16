@@ -116,7 +116,6 @@ This folder contains additional figures to the thesis that were either too many 
         - Shows all proteins detected in the proteomics analysis in conjunction with the reaction they are associated with.
         - Reactions having no associated proteins detected are only represented by their reaction ID.
         - This figure is referenced in the thesis in chapter 3, section 3.4.2.
-        - Additionally, a [.svg version](Proteomics_Data_Analysis/Additional_Figures/reaction_resolved_protein_expression/C_necator_protein_expression_central_carbon_metabolism.svg) of the image is provided.
       - [plots](Proteomics_Data_Analysis/Additional_Figures/reaction_resolved_protein_expression/plots):
         - Contains the individual plots used in [C_necator_protein_expression_central_carbon_metabolism.png](Proteomics_Data_Analysis/Additional_Figures/reaction_resolved_protein_expression/C_necator_protein_expression_central_carbon_metabolism.png).
   - [heatmaps](Proteomics_Data_Analysis/Additional_Figures/heatmaps):
