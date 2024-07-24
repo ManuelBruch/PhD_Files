@@ -15,6 +15,9 @@ function outTable = PHB_GC_evaluation(inTable)
 %   m_pellet_used_mg
 %   peak_area_IS
 %   peak_area_C4
+%   optional table headers in input table:
+%   c_C_residual_FA [mmol/L]
+%   c_C_residual_But [mmol/L]
 
 
 % PHB quantification equation parameters
@@ -24,6 +27,7 @@ betaC4                      =    3.5;   % beta of the C4 monomer (Methyl 3-hydro
 molarConcIS                 =    0.000735;  % molar concentration of the internal standard (0.1 mg/ml, MW = 136.1 g/mol)
 dehydrogenatedC4molarMass   =   86.09;  % molar mass of 3-hydroxybutyric acid minus H2O (lost in polymerisation to PHB)
 sampleVolume                =    2;     % sample volume
+MWcarbon                    =   12.011; % molecular weight of carbon
 
 %% calculate additional sample stats
 % C/N ratio
@@ -37,27 +41,27 @@ fullData    =   [fullData array2table(fullData.c_C_mmol_L_ ./ fullData.c_P_mmol_
 fullData    =   [fullData array2table(fullData.m_pellet_mg ./ fullData.V_harvested_ml,...
                  'VariableNames',{'CDW_g_L'})];
 
-% calculate PHB content based on formula developed by REFERENCE
+% calculate PHB content
 monomerMass =   (fullData.peak_area_C4 ./ fullData.peak_area_IS) * ...
                 (betaIS/betaC4) * ...
                 molarConcIS * dehydrogenatedC4molarMass * sampleVolume;
 fullData    =   [fullData array2table(monomerMass,...
-                 'VariableNames',{'monomer_mass_mg'})];
+                 'VariableNames', {'monomer_mass_mg'})];
 
 PHBpercent  =   (fullData.monomer_mass_mg ./ fullData.m_pellet_used_mg) * ...
                 100 / methanolysis_conv_factor;
 fullData    =   [fullData array2table(PHBpercent,...
-                 'VariableNames',{'PHB_percent'})];
+                 'VariableNames', {'PHB_percent'})];
 
 % PHB titre
 fullData    =   [fullData array2table(fullData.CDW_g_L .*...
                                       (fullData.PHB_percent / 100),...
-                 'VariableNames',{'c_PHB_g_L'})];
+                 'VariableNames', {'c_PHB_g_L'})];
 
 % PHB carbon yield
 fullData    =   [fullData array2table(fullData.c_PHB_g_L ./...
-                                      ((fullData.c_C_mmol_L_ / 1000) * 12.011),...
-                 'VariableNames',{'gPHB_per_gCarbon'})];
+                                      ((fullData.c_C_mmol_L_ / 1000) * MWcarbon),...
+                 'VariableNames', {'gPHB_per_gCarbon'})];
 
 % PHB STY
 PHB_STY     =   zeros(height(fullData), 1);
@@ -70,4 +74,13 @@ for i = 1:height(fullData)
 end
 outTable    =   [fullData array2table(PHB_STY,...
                  'VariableNames',{'PHB_STY_g_L_h'})];
+
+% PHB residual carbon yield
+residCarbonTbl  =   fullData(:, contains(fullData.Properties.VariableNames, 'c_C_residual'));
+if size(residCarbonTbl, 2) > 0
+    outTable    =   [outTable array2table(fullData.c_PHB_g_L ./...
+                                          (((fullData.c_C_mmol_L_  / 1000) - sum(residCarbonTbl{:,:}, 2)) * MWcarbon),...
+                     'VariableNames', {'gPHB_per_gResidual_Carbon'})];
+end
+
 end
