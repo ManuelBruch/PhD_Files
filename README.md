@@ -41,6 +41,9 @@ This folder contains general files for data analysis using MATLAB. All files are
   9. [flask_triplicate_w_HPLC.m](MATLAB_Data_Analysis/flask_triplicate_w_HPLC.m):
        - Plots growth curve triplicates together with measured HPLC data from shake flask cultivations.
        - Requires respective data files.
+  10. [DASbox_conti_analysis.m](MATLAB_Data_Analysis/DASbox_conti_analysis.m):
+       - Generates plots using previously analysed offline biomass data and online-measured data from the DASware Control software from Eppendorf to display continuous fermentation profiles (run in DASbox Mini Fermenter units).
+       - Required the respective data files.
 
 ### The [functions](MATLAB_Data_Analysis/functions) Folder
 This folder contains some general helper functions written to streamline the code in the other MATLAB files.
