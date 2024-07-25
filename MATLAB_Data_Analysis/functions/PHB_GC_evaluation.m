@@ -41,7 +41,7 @@ fullData    =   [fullData array2table(fullData.c_C_mmol_L_ ./ fullData.c_P_mmol_
 fullData    =   [fullData array2table(fullData.m_pellet_mg ./ fullData.V_harvested_ml,...
                  'VariableNames',{'CDW_g_L'})];
 
-% calculate PHB content
+% calculate PHB content based on formula described in thesis
 monomerMass =   (fullData.peak_area_C4 ./ fullData.peak_area_IS) * ...
                 (betaIS/betaC4) * ...
                 molarConcIS * dehydrogenatedC4molarMass * sampleVolume;
@@ -80,7 +80,7 @@ residCarbonTbl  =   fullData(:, contains(fullData.Properties.VariableNames, 'c_C
 if size(residCarbonTbl, 2) > 0
     outTable    =   [outTable array2table(fullData.c_PHB_g_L ./...
                                           (((fullData.c_C_mmol_L_  / 1000) - sum(residCarbonTbl{:,:}, 2)) * MWcarbon),...
-                     'VariableNames', {'gPHB_per_gResidual_Carbon'})];
+                     'VariableNames', {'gPHB_per_gConsumed_Carbon'})];
 end
 
 end
