@@ -110,12 +110,6 @@ for i = 1:height(measuredData)
     end
 end
 
-% exclude certain wells
-if contains(fileLocation, '20211111')
-    allWells = measuredData.WELLNo_;
-    measuredData(strcmp(allWells,'A02'),:)  =   [];
-end
-
 % first split by signal
 [G,ID]          =   findgroups(measuredData.CHANNEL);
 Signals         =   cell(length(ID)+1,1);
