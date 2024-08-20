@@ -154,6 +154,14 @@ This folder contains Bandage graphs created using the Bandage Image tool in Gala
       - Bandage graph created in the Galaxy project to display interactions amongst scaffolds in the assembly from the sample to sequence _C. necator_ ALE31.
   - [C_necator_ALE42_Bandage_graph.svg](Genomic_Analysis_Graphics/Second_Attempt_with_corrected_sequences/Bandage_Graphs/C_necator_ALE42_Bandage_graph.svg):
       - Bandage graph created in the Galaxy project to display interactions amongst scaffolds in the assembly from the sample to sequence _C. necator_ ALE42.
+#### [Circos_plots](Genomic_Analysis_Graphics/Second_Attempt_with_corrected_sequences/Circos_plots)
+This folder contains circos plots created using the Quast tool in Galaxy.
+  - [circos_plot_ALE25.png](Genomic_Analysis_Graphics/Second_Attempt_with_corrected_sequences/Circos_plots/circos_plot_ALE25.png):
+      - Circos plot for the alignment of assembled scaffolds for _C. necator_ ALE25 sequencing reads with the [reference genome](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA531660).
+  - [circos_plot_ALE31.png](Genomic_Analysis_Graphics/Second_Attempt_with_corrected_sequences/Circos_plots/circos_plot_ALE31.png):
+      - Circos plot for the alignment of assembled scaffolds for _C. necator_ ALE31 sequencing reads with the [reference genome](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA531660).
+  - [circos_plot_ALE42.png](Genomic_Analysis_Graphics/Second_Attempt_with_corrected_sequences/Circos_plots/circos_plot_ALE42.png):
+      - Circos plot for the alignment of assembled scaffolds for _C. necator_ ALE42 sequencing reads with the [reference genome](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA531660).
 <br>
 
 ## [Resource_Balance_Analysis](Resource_Balance_Analysis)
