@@ -127,20 +127,33 @@ This folder contains additional figures to the thesis that were either too many 
 
 ## [Genomic_Analysis_Graphics](Genomic_Analysis_Graphics)
 This folder contains additional graphics supplementary to the genomic analyses described in the thesis.
-### [Bandage_graphs](Genomic_Analysis_Graphics/Bandage_graphs)
+### [First_Attempt](Genomic_Analysis_Graphics/First_Attempt)
+This folder contains results for the first attempt of the analysis with faulty data provided by the sequencing service.
+#### [Bandage_graphs](Genomic_Analysis_Graphics/First_Attempt/Bandage_graphs)
 This folder contains Bandage graphs created using the Bandage Image tool in Galaxy.
-  - [C_necator_ALE31_Bandage_graph.svg](Genomic_Analysis_Graphics/Bandage_graphs/C_necator_ALE31_Bandage_graph.svg):
+  - [C_necator_ALE31_Bandage_graph.svg](Genomic_Analysis_Graphics/First_Attempt/Bandage_graphs/C_necator_ALE31_Bandage_graph.svg):
       - Bandage graph created in the Galaxy project to display interactions amongst scaffolds in the assembly from the sample to sequence _C. necator_ ALE31.
-  - [C_necator_ALE42_Bandage_graph.svg](Genomic_Analysis_Graphics/Bandage_graphs/C_necator_ALE42_Bandage_graph.svg):
+  - [C_necator_ALE42_Bandage_graph.svg](Genomic_Analysis_Graphics/First_Attempt/Bandage_graphs/C_necator_ALE42_Bandage_graph.svg):
       - Bandage graph created in the Galaxy project to display interactions amongst scaffolds in the assembly from the sample to sequence _C. necator_ ALE42.
-### [Circos_plots](Genomic_Analysis_Graphics/Circos_plots)
+#### [Circos_plots](Genomic_Analysis_Graphics/First_Attempt/Circos_plots)
 This folder contains circos plots created using the Quast tool in Galaxy.
-  - [circos_plot_H16.png](Genomic_Analysis_Graphics/Circos_plots/circos_plot_H16.png):
+  - [circos_plot_H16.png](Genomic_Analysis_Graphics/First_Attempt/Circos_plots/circos_plot_H16.png):
       - Circos plot for the alignment of assembled scaffolds for _C. necator_ H16 sequencing reads with the [reference genome](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA531660).
-  - [circos_plot_ALE26.png](Genomic_Analysis_Graphics/Circos_plots/circos_plot_ALE26.png):
+  - [circos_plot_ALE26.png](Genomic_Analysis_Graphics/First_Attempt/Circos_plots/circos_plot_ALE26.png):
       - Circos plot for the alignment of assembled scaffolds for _C. necator_ ALE26 sequencing reads with the [reference genome](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA531660).
-  - [circos_plot_ALE42.png](Genomic_Analysis_Graphics/Circos_plots/circos_plot_ALE42.png):
+  - [circos_plot_ALE42.png](Genomic_Analysis_Graphics/First_Attempt/Circos_plots/circos_plot_ALE42.png):
       - Circos plot for the alignment of assembled scaffolds for _C. necator_ ALE42 sequencing reads with the [reference genome](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA531660).
+   
+### [Second_Attempt_with_corrected_sequences](Genomic_Analysis_Graphics/Second_Attempt_with_corrected_sequences)
+This folder contains additional graphs from the corrected sequence analysis
+#### [Bandage_graphs](Genomic_Analysis_Graphics/Second_Attempt_with_corrected_sequences)
+This folder contains Bandage graphs created using the Bandage Image tool in Galaxy.
+  - [C_necator_ALE25_Bandage_graph.svg](Genomic_Analysis_Graphics/Second_Attempt_with_corrected_sequences/Bandage_Graphs/C_necator_ALE25_Bandage_graph.svg):
+      - Bandage graph created in the Galaxy project to display interactions amongst scaffolds in the assembly from the sample to sequence _C. necator_ ALE25.
+  - [C_necator_ALE31_Bandage_graph.svg](Genomic_Analysis_Graphics/Second_Attempt_with_corrected_sequences/Bandage_Graphs/C_necator_ALE31_Bandage_graph.svg):
+      - Bandage graph created in the Galaxy project to display interactions amongst scaffolds in the assembly from the sample to sequence _C. necator_ ALE31.
+  - [C_necator_ALE42_Bandage_graph.svg](Genomic_Analysis_Graphics/Second_Attempt_with_corrected_sequences/Bandage_Graphs/C_necator_ALE42_Bandage_graph.svg):
+      - Bandage graph created in the Galaxy project to display interactions amongst scaffolds in the assembly from the sample to sequence _C. necator_ ALE42.
 <br>
 
 ## [Resource_Balance_Analysis](Resource_Balance_Analysis)
