@@ -154,6 +154,15 @@ This folder contains Bandage graphs created using the Bandage Image tool in Gala
       - Bandage graph created in the Galaxy project to display interactions amongst scaffolds in the assembly from the sample to sequence _C. necator_ ALE31.
   - [C_necator_ALE42_Bandage_graph.svg](Genomic_Analysis_Graphics/Second_Attempt_with_corrected_sequences/Bandage_Graphs/C_necator_ALE42_Bandage_graph.svg):
       - Bandage graph created in the Galaxy project to display interactions amongst scaffolds in the assembly from the sample to sequence _C. necator_ ALE42.
+  - [C_necator_ALE25_Bandage_graph_with_filtered_scafolds.svg](Genomic_Analysis_Graphics/Second_Attempt_with_corrected_sequences/Bandage_Graphs/C_necator_ALE25_Bandage_graph_with_filtered_scafolds.svg):
+      - Bandage graph created in the Galaxy project to display interactions amongst scaffolds in the assembly from the sample to sequence _C. necator_ ALE25.
+      - This version was created after filtering out scaffolds with a low coverage.
+  - [C_necator_ALE31_Bandage_graph_with_filtered_scafolds.svg](Genomic_Analysis_Graphics/Second_Attempt_with_corrected_sequences/Bandage_Graphs/C_necator_ALE31_Bandage_graph_with_filtered_scafolds.svg):
+      - Bandage graph created in the Galaxy project to display interactions amongst scaffolds in the assembly from the sample to sequence _C. necator_ ALE31.
+      - This version was created after filtering out scaffolds with a low coverage.
+  - [C_necator_ALE42_Bandage_graph_with_filtered_scafolds.svg](Genomic_Analysis_Graphics/Second_Attempt_with_corrected_sequences/Bandage_Graphs/C_necator_ALE42_Bandage_graph_with_filtered_scafolds.svg):
+      - Bandage graph created in the Galaxy project to display interactions amongst scaffolds in the assembly from the sample to sequence _C. necator_ ALE42.
+      - This version was created after filtering out scaffolds with a low coverage.
 #### [Circos_plots](Genomic_Analysis_Graphics/Second_Attempt_with_corrected_sequences/Circos_plots)
 This folder contains circos plots created using the Quast tool in Galaxy.
   - [circos_plot_ALE25.png](Genomic_Analysis_Graphics/Second_Attempt_with_corrected_sequences/Circos_plots/circos_plot_ALE25.png):
@@ -162,6 +171,15 @@ This folder contains circos plots created using the Quast tool in Galaxy.
       - Circos plot for the alignment of assembled scaffolds for _C. necator_ ALE31 sequencing reads with the [reference genome](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA531660).
   - [circos_plot_ALE42.png](Genomic_Analysis_Graphics/Second_Attempt_with_corrected_sequences/Circos_plots/circos_plot_ALE42.png):
       - Circos plot for the alignment of assembled scaffolds for _C. necator_ ALE42 sequencing reads with the [reference genome](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA531660).
+  - [circos_plot_ALE25_with_filtered_scaffolds.png](Genomic_Analysis_Graphics/Second_Attempt_with_corrected_sequences/Circos_plots/circos_plot_ALE25_with_filtered_scaffolds.png):
+      - Circos plot for the alignment of assembled scaffolds for _C. necator_ ALE25 sequencing reads with the [reference genome](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA531660).
+      - This version was created after filtering out scaffolds with a low coverage.
+  - [circos_plot_ALE31_with_filtered_scaffolds.png](Genomic_Analysis_Graphics/Second_Attempt_with_corrected_sequences/Circos_plots/circos_plot_ALE31_with_filtered_scaffolds.png):
+      - Circos plot for the alignment of assembled scaffolds for _C. necator_ ALE31 sequencing reads with the [reference genome](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA531660).
+      - This version was created after filtering out scaffolds with a low coverage.
+  - [circos_plot_ALE42_with_filtered_scaffolds.png](Genomic_Analysis_Graphics/Second_Attempt_with_corrected_sequences/Circos_plots/circos_plot_ALE42_with_filtered_scaffolds.png):
+      - Circos plot for the alignment of assembled scaffolds for _C. necator_ ALE42 sequencing reads with the [reference genome](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA531660).
+      - This version was created after filtering out scaffolds with a low coverage.
 <br>
 
 ## [Resource_Balance_Analysis](Resource_Balance_Analysis)
