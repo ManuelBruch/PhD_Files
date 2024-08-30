@@ -71,7 +71,7 @@ This folder contains some general helper functions written to streamline the cod
 <br>
 
 ## [Proteomics_Data_Analysis](Proteomics_Data_Analysis)
-This folder contains files associated with the proteomics analysis conducted in this work.
+This folder contains files associated with the proteomics analysis conducted in this work. 
 The excel file [poolTable_imports_of_python_dataframes.xlsx](Proteomics_Data_Analysis/poolTable_imports_of_python_dataframes.xlsx) contains tables with the statistical results for differential protein expression between all tested conditions. It also features the pathway associations of each of the identified proteins. This table was the basis from which the pool-table plots were created.
 ### [Perseus_Analysis](Proteomics_Data_Analysis/Perseus_Analysis)
 The file doing in which the initial proteome analysis and data transformation was performed is found in [Perseus_proteomics_analysis.sps](Proteomics_Data_Analysis/Perseus_Analysis/Perseus_proteomics_analysis.sps). A snapshot of the workflow is shown in [Perseus_workflow.png](Proteomics_Data_Analysis/Perseus_Analysis/Perseus_workflow.png).
